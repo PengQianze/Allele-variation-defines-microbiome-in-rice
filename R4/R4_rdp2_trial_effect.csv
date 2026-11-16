@@ -1,0 +1,12 @@
+,G1,G2,Pvalue,N1,N2,HapA,HapD,Discribe
+cudi_repro,HapA,HapD,0.522,477,220,4.685115304,4.734545455,Culm diameter of basal internode at reproductive
+cult_repro,HapA,HapD,0.00293,477,219,110.6897275,103.9452055,Culm length (cm) at reproductive
+cuno_repro,HapA,HapD,8.31E-23,477,220,17.80503145,13.79545455,Culm number (count) at reproductive
+grlt,HapA,HapD,0.949,537,251,8.610428305,8.605179283,Grain length (mm)
+grwd,HapA,HapD,1.12E-18,537,251,2.955307263,3.233864542,Grain width (mm)
+grwt100,HapA,HapD,7.07E-12,537,251,2.401675978,2.690438247,100-grain weight (gm) - cultivated
+hdg_80head,HapA,HapD,4.49E-06,538,252,96.45167286,89.58333333,Heading (days to 80% fully headed) - cultivated
+liglt,HapA,HapD,8.63E-10,472,219,18.77118644,16.03652968,Ligule length (mm)
+llt,HapA,HapD,0.639,477,220,53.29769392,53.77727273,Leaf length (cm)
+mat,HapA,HapD,4.49E-06,538,252,126.4516729,119.5833333,Maturity - cultivated
+plt_post,HapA,HapD,0.174,475,219,24.16842105,24.62557078,Panicle length (cm) at post-harvest

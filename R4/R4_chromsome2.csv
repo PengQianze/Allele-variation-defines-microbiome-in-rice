@@ -1,0 +1,4 @@
+chrm,sturcture,start,end,length,dirict,dirict1,locus_id,SYMBOL
+chr2,Chrome,0,36725708,36725708,+,1,chromosome2,chromosome2
+chr2,SNP,25894232,25894232,0,+,1,SNP_25894232,chr.2.25894232
+chr2,500k,25394232,26394232,1000000,+,1,SNP_500k,SNP_500k

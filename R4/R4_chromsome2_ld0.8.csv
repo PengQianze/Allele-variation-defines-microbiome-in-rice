@@ -1,0 +1,9 @@
+chrm,sturcture,start,end,length,dirict,dirict1,locus_id,SYMBOL,SYMBOL2
+chr2,LD0.8,25786384,25791923,5539,+,1,Os02g0624400,"Glycosyl transferase, family 8 protein.;category",OsPGSIP-B1
+chr2,LD0.8,25802723,25808944,6221,+,1,Os02g0625000,Similar to Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase) (Photoreactivating enzyme).;category,OsCRY2
+chr2,LD0.8,25821840,25822874,1034,+,1,Os02g0625300,Similar to Phosphoenolpyruvate carboxylase kinase.,OsPPCK2
+chr2,LD0.8,25860283,25876249,15966,-,0,Os02g0626100,Similar to Phenylalanine ammonia-lyase.;category,OsPAL3
+chr2,LD0.8,25879688,25882275,2587,-,0,Os02g0626600,Phenylalanine ammonia-lyase family protein.;category,OsPAL9
+chr2,LD0.8,25893356,25895982,2626,-,0,Os02g0627100,Similar to Phenylalanine ammonia-lyase (EC 4.3.1.5).;category,OsPAL1
+chr2,LD0.8,25939032,25941832,2800,+,1,Os02g0627700,Similar to Cyclic nucleotide-gated channel A (Fragment).,OsCNGC7
+chr2,LD0.8,26020389,26022957,2568,+,1,Os02g0628600,Transcriptional factor B3 family protein.;category,OsARF8

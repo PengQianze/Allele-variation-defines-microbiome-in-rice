@@ -1,0 +1,4 @@
+,G1,G2,Pvalue,N1,N2,HapA,HapD,Discribe
+average_solar,HapA,HapD,2.16E-51,839,551,17630.59197,15800.31237,solar radiation (kJ m-2 day-1)
+temperature,HapA,HapD,2.69E-22,839,551,23.5438022,20.11441318,temperature (°„C)
+precipitation,HapA,HapD,0.242,839,551,1594.9559,1551.23049,precipitation (mm)

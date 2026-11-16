@@ -1,0 +1,8 @@
+,average_solar_p,average_solar_r,describe,significance
+cult_repro,4.69926206654263e-31,0.426903738931561,Culm length (cm) at reproductive,Pos
+grwd,3.83239233152795e-06,-0.177410104,Grain width (mm),Neg
+hdg_80head,9.66361788312219e-15,0.293113566853204,Heading (days to 80% fully headed) - cultivated,Pos
+mat,9.66361788312219e-15,0.293113566853204,Maturity - cultivated,Pos
+grwt100,0.0100166211667973,-0.099429801,100-grain weight (gm) - cultivated,Neg
+cuno_repro,0.879983766997853,0.0058441073822656,Culm number (count) at reproductive,no
+liglt,1.12716444479327e-29,0.417711635995441,Ligule length (mm),Pos
