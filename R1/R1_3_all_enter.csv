@@ -1,0 +1,669 @@
+snp_name,tax,log10FDR,top,CDS_IN_Gene_structure,gene_id,Description,G1_mean,G2_mean,Pvalue
+chr.1.29639371,Enterobacterales,47.18930897,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.28575582,48.41565419,2.41E-79
+chr.12.5588859,Enterobacterales,48.41195228,Locus4,CDS,Os12g0207000,Transcription factor.,48.7156076,13.01981909,5.35E-77
+chr.1.29639315,Enterobacterales,48.17945477,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.20501441,48.41565419,1.96E-79
+chr.12.5569700,Enterobacterales,47.74318158,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",12.94015871,48.94925684,2.34E-76
+chr.12.5569707,Enterobacterales,47.74318158,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",48.94925684,12.94015871,2.34E-76
+chr.1.29634049,Enterobacterales,45.60997906,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,13.50637672,49.22308015,1.41E-77
+chr.1.29634059,Enterobacterales,45.60997906,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,49.22308015,13.50637672,1.41E-77
+chr.1.29633842,Enterobacterales,47.13617206,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,49.40088671,13.19938123,9.8E-77
+chr.1.29639302,Enterobacterales,47.93915163,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.23203358,48.41565419,2.13E-79
+chr.12.5588780,Enterobacterales,47.8201861,Locus4,CDS,Os12g0207000,Transcription factor.,48.94925684,13.08074066,5.27E-76
+chr.12.5597621,Enterobacterales,46.80781699,Locus4,CDS,Os12g0207200,Hypothetical protein.,48.7156076,13.22040727,9.74E-77
+chr.12.5587028,Enterobacterales,44.19419055,Locus4,CDS,Os12g0207000,Transcription factor.,13.48553337,48.94925684,1.53E-75
+chr.7.2978007,Enterobacterales,48.07967637,Locus15,CDS,Os07g0155100,FAD dependent oxidoreductase family protein.,48.22363152,12.9224253,5.54E-79
+chr.1.29640395,Enterobacterales,51.30631249,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,12.57259415,48.41565419,1.35E-80
+chr.1.29641620,Enterobacterales,46.10981202,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,13.13244352,5.25E-79
+chr.9.19507610,Enterobacterales,45.30708811,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",49.14959113,13.45033514,4.57E-80
+chr.2.33315642,Enterobacterales,47.49069839,Locus25,CDS,Os02g0769200,Similar to LysM-domain GPI-anchored protein 1 precursor. Splice isoform 2.,12.98086958,48.31967419,2.05E-79
+chr.12.5602895,Enterobacterales,48.65201379,Locus4,CDS,Os12g0207300,Similar to Clathrin coat assembly protein AP17 (Clathrin coat associated protein AP17) (Plasma membrane adaptor AP-2 17 kDa protein) (HA2 17 kDa subunit) (Clathrin assembly protein 2 small chain).,12.79375877,48.7156076,1.5E-77
+chr.1.29633934,Enterobacterales,46.67574578,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,13.28202855,49.40088671,1.32E-76
+chr.12.5568017,Enterobacterales,46.04547203,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,48.7156076,12.84187843,8.47E-78
+chr.1.29633949,Enterobacterales,46.51657517,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,49.40088671,13.26091029,1.1E-76
+chr.1.29640433,Enterobacterales,48.56908429,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,12.95493218,4.68E-79
+chr.1.29640619,Enterobacterales,47.00496582,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.24037007,48.63692839,1.46E-78
+chr.1.29640634,Enterobacterales,47.04371398,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,13.20721349,1.2E-78
+chr.5.27290879,Enterobacterales,48.72468071,Locus14,CDS,Os05g0548400,Conserved hypothetical protein.,13.22714032,49.86995595,2.62E-72
+chr.5.27290880,Enterobacterales,48.72468071,Locus14,CDS,Os05g0548400,Conserved hypothetical protein.,13.22714032,49.86995595,2.62E-72
+chr.5.27290945,Enterobacterales,49.26216594,Locus14,CDS,Os05g0548400,Conserved hypothetical protein.,49.86995595,13.10720101,1.68E-72
+chr.1.29633973,Enterobacterales,46.0576931,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,13.35804681,49.40088671,1.62E-76
+chr.1.29640518,Enterobacterales,46.29319707,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.24462357,48.63692839,1.16E-78
+chr.1.29640648,Enterobacterales,47.02841808,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,13.28325879,1.91E-78
+chr.12.5588717,Enterobacterales,48.74156909,Locus4,CDS,Os12g0207000,Transcription factor.,48.94925684,12.93005656,3.03E-76
+chr.5.23125556,Enterobacterales,45.21381257,Locus23,CDS,Os05g0469900,Conserved hypothetical protein.,13.42499108,49.70724521,1.88E-73
+chr.12.5567963,Enterobacterales,46.67734967,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,48.7156076,12.80986848,8.8E-78
+chr.5.27290981,Enterobacterales,49.21574577,Locus14,CDS,Os05g0548400,Conserved hypothetical protein.,13.24960381,49.86995595,3.52E-72
+chr.1.29641199,Enterobacterales,44.5247629,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.41565419,13.52480632,4.17E-79
+chr.1.29641484,Enterobacterales,45.41837013,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,13.30591794,1.23E-78
+chr.1.29640926,Enterobacterales,46.17442451,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.27750401,48.41565419,1.59E-79
+chr.12.5602940,Enterobacterales,48.34164145,Locus4,CDS,Os12g0207300,Similar to Clathrin coat assembly protein AP17 (Clathrin coat associated protein AP17) (Plasma membrane adaptor AP-2 17 kDa protein) (HA2 17 kDa subunit) (Clathrin assembly protein 2 small chain).,12.93288187,49.0278799,5.69E-77
+chr.5.23106544,Enterobacterales,45.0075683,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.76025825,12.99425204,9.51E-81
+chr.1.29640544,Enterobacterales,46.40331625,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,13.31406074,1.85E-78
+chr.1.29640547,Enterobacterales,46.40331625,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.31406074,48.63692839,1.85E-78
+chr.2.25941323,Enterobacterales,45.98781334,Locus1,CDS,Os02g0627700,Similar to Cyclic nucleotide-gated channel A (Fragment).,13.03327416,48.41153473,3.57E-80
+chr.9.19505271,Enterobacterales,39.38844283,Locus5,CDS,Os09g0488700,Conserved hypothetical protein.,14.20295542,49.82373984,4.07E-67
+chr.9.19507267,Enterobacterales,45.42681867,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",48.77392193,13.21613557,4E-80
+chr.9.19507729,Enterobacterales,43.49530371,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",48.40390438,13.50120754,5.31E-79
+chr.7.15225068,Enterobacterales,43.00465294,Locus11,CDS,Os07g0435900,SRA-YDG domain containing protein.,45.75289673,12.59386313,4.03E-72
+chr.5.27302963,Enterobacterales,41.64366604,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,14.52316927,52.11427607,3.49E-66
+chr.5.27302965,Enterobacterales,41.64366604,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,14.52316927,52.11427607,3.49E-66
+chr.5.27302971,Enterobacterales,41.64366604,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,14.52316927,52.11427607,3.49E-66
+chr.12.5568145,Enterobacterales,45.76336908,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,48.23403475,12.75793027,1.06E-76
+chr.4.26605253,Enterobacterales,47.50598603,Locus19,CDS,Os04g0523650,Conserved hypothetical protein.,12.83231919,48.33929651,9.98E-81
+chr.12.5571993,Enterobacterales,47.4394005,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",48.30270332,12.69108189,3.5E-80
+chr.5.27302947,Enterobacterales,41.44208977,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,14.56236539,52.11427607,3.83E-66
+chr.5.27302951,Enterobacterales,41.44208977,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,52.11427607,14.56236539,3.83E-66
+chr.3.5242360,Enterobacterales,46.8733077,Locus10,CDS,Os03g0199100,Protein of unknown function DUF677 family protein.,12.89920184,48.16987448,3.59E-81
+chr.12.5588963,Enterobacterales,50.28361869,Locus4,CDS,Os12g0207000,Transcription factor.,48.16987448,12.53610838,1.24E-81
+chr.9.19507024,Enterobacterales,44.79789995,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",48.68526756,13.42893168,1.4E-78
+chr.5.23113332,Enterobacterales,46.38736643,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.32168728,13.24951536,7.87E-79
+chr.1.29641404,Enterobacterales,44.99342868,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.63692839,13.44094509,2.42E-78
+chr.5.23106524,Enterobacterales,43.25206471,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.76025825,13.37853949,5.64E-80
+chr.5.23106527,Enterobacterales,43.25206471,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.76025825,13.37853949,5.64E-80
+chr.7.15225204,Enterobacterales,42.91277227,Locus11,CDS,Os07g0435900,SRA-YDG domain containing protein.,45.75289673,12.65429012,6.02E-72
+chr.5.23113326,Enterobacterales,47.3140869,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,13.1601412,49.32168728,6.57E-79
+chr.1.29639711,Enterobacterales,48.03133439,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.16987448,12.94831378,7.14E-81
+chr.9.19506999,Enterobacterales,44.24560787,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",13.40387545,48.68526756,9.87E-79
+chr.1.29634091,Enterobacterales,46.01675838,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,13.29419421,48.41565419,1.66E-79
+chr.1.29634092,Enterobacterales,46.01675838,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,48.41565419,13.29419421,1.66E-79
+chr.5.23113300,Enterobacterales,46.2448843,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.32168728,13.33458214,1.22E-78
+chr.12.5585389,Enterobacterales,44.43309112,Locus4,CDS,Os12g0207000,Transcription factor.,13.422234,48.31967419,1.11E-78
+chr.1.29640745,Enterobacterales,46.06959706,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.18735125,48.41565419,8.63E-80
+chr.6.17386455,Enterobacterales,45.19776259,Locus18,CDS,Os06g0484600,Similar to Pherophorin-S precursor.,13.11168214,48.38002978,4.83E-78
+chr.1.29639972,Enterobacterales,45.62187232,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.16987448,13.1682335,1.26E-80
+chr.2.33315468,Enterobacterales,47.9314076,Locus25,CDS,Os02g0769200,Similar to LysM-domain GPI-anchored protein 1 precursor. Splice isoform 2.,48.31967419,12.66631801,3.37E-80
+chr.12.5568731,Enterobacterales,45.11936176,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",48.45706156,13.08016063,4.81E-78
+chr.12.5597336,Enterobacterales,45.90677434,Locus4,CDS,Os12g0207200,Hypothetical protein.,48.57183421,13.26984898,3.41E-78
+chr.12.5588793,Enterobacterales,44.62016633,Locus4,CDS,Os12g0207000,Transcription factor.,13.26682824,48.30725468,1.11E-75
+chr.12.5588794,Enterobacterales,44.62016633,Locus4,CDS,Os12g0207000,Transcription factor.,13.26682824,48.30725468,1.11E-75
+chr.5.23111434,Enterobacterales,43.58832344,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.46038114,12.77334747,4.28E-79
+chr.5.23113622,Enterobacterales,44.55641938,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.06870986,13.37793404,6.88E-77
+chr.6.17379979,Enterobacterales,48.02403727,Locus18,CDS,Os06g0484400,Hypothetical protein.,12.83934863,48.16987448,3.83E-81
+chr.5.23106474,Enterobacterales,42.94746541,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.06814331,13.57952226,2.67E-79
+chr.4.25875438,Enterobacterales,45.46076094,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,13.2835097,48.16987448,2.5E-80
+chr.2.33377507,Enterobacterales,44.39649128,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,14.04620293,51.74977998,4.73E-74
+chr.1.29652608,Enterobacterales,42.0205695,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.58546507,48.0317956,6.9E-79
+chr.5.23105655,Enterobacterales,43.87753682,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.16987448,12.95676299,1.84E-81
+chr.9.21425787,Enterobacterales,48.01827447,Locus17,CDS,Os09g0526600,Similar to Heat shock factor protein 3 (HSF 3) (Heat shock transcription factor 3) (HSTF 3).,48.16987448,12.76657741,2.24E-81
+chr.1.29653829,Enterobacterales,43.25820196,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.67037699,1.92E-78
+chr.1.29653834,Enterobacterales,43.25820196,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.67037699,48.0317956,1.92E-78
+chr.1.29653840,Enterobacterales,43.25820196,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.67037699,48.0317956,1.92E-78
+chr.1.29653841,Enterobacterales,43.25820196,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.67037699,48.0317956,1.92E-78
+chr.4.25878878,Enterobacterales,44.35935467,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,48.16987448,13.21665846,1.12E-80
+chr.5.23106577,Enterobacterales,44.09489347,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.76025825,13.2610779,3.68E-80
+chr.7.12974182,Enterobacterales,40.66725728,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",44.32698554,12.5556275,8.57E-67
+chr.7.12974183,Enterobacterales,40.66725728,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",44.32698554,12.5556275,8.57E-67
+chr.12.5597327,Enterobacterales,44.12997279,Locus4,CDS,Os12g0207200,Hypothetical protein.,48.57183421,13.46105593,6.07E-78
+chr.6.17318153,Enterobacterales,49.06342658,Locus18,CDS,Os06g0483500,Hypothetical protein.,48.16987448,12.5507619,8.42E-82
+chr.1.29653764,Enterobacterales,43.25102298,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.62439366,1.43E-78
+chr.1.29653775,Enterobacterales,43.25102298,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.62439366,48.0317956,1.43E-78
+chr.1.29653776,Enterobacterales,43.25102298,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.62439366,48.0317956,1.43E-78
+chr.12.5570624,Enterobacterales,44.5530479,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",48.31967419,13.20007602,2.83E-79
+chr.1.29652318,Enterobacterales,44.45289474,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.5326956,48.6463698,1.97E-78
+chr.1.29653750,Enterobacterales,43.25006356,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.63885521,1.57E-78
+chr.2.33315462,Enterobacterales,46.32882739,Locus25,CDS,Os02g0769200,Similar to LysM-domain GPI-anchored protein 1 precursor. Splice isoform 2.,12.98210703,48.61548717,2.58E-79
+chr.2.33315356,Enterobacterales,44.95660287,Locus25,CDS,Os02g0769200,Similar to LysM-domain GPI-anchored protein 1 precursor. Splice isoform 2.,48.31967419,13.21077306,3.49E-79
+chr.2.33315414,Enterobacterales,45.32288763,Locus25,CDS,Os02g0769200,Similar to LysM-domain GPI-anchored protein 1 precursor. Splice isoform 2.,13.05557764,48.31967419,1.49E-79
+chr.2.33315376,Enterobacterales,45.30057604,Locus25,CDS,Os02g0769200,Similar to LysM-domain GPI-anchored protein 1 precursor. Splice isoform 2.,13.08780652,48.31967419,1.8E-79
+chr.5.27303438,Enterobacterales,35.74599947,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,15.32305784,51.61459944,5.27E-64
+chr.1.29653733,Enterobacterales,43.03094527,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.66769162,1.74E-78
+chr.1.29653745,Enterobacterales,43.03094527,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.66769162,1.74E-78
+chr.1.29652597,Enterobacterales,40.63452039,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.81400302,48.0317956,1.86E-78
+chr.7.2857731,Enterobacterales,46.016548,Locus15,CDS,Os07g0153400,Cyclin-like F-box domain containing protein.,13.13107719,48.1435585,1.64E-78
+chr.1.29652721,Enterobacterales,40.71047672,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.69919259,48.0317956,9.38E-79
+chr.1.29652725,Enterobacterales,40.71047672,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.69919259,48.0317956,9.38E-79
+chr.1.29653259,Enterobacterales,41.45274212,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.15714725,13.94395685,3.06E-79
+chr.1.29653268,Enterobacterales,41.45274212,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.94395685,48.15714725,3.06E-79
+chr.1.29653269,Enterobacterales,41.45274212,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.15714725,13.94395685,3.06E-79
+chr.1.29653271,Enterobacterales,41.45274212,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.15714725,13.94395685,3.06E-79
+chr.1.29653280,Enterobacterales,41.45274212,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.94395685,48.15714725,3.06E-79
+chr.12.5568297,Enterobacterales,38.04570641,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,13.02774273,45.34156332,2.53E-62
+chr.4.29189270,Enterobacterales,45.28992237,Locus6,CDS,Os04g0571800,"Zinc finger, RING-type domain containing protein.",12.92724039,48.16987448,2.37E-81
+chr.1.29653727,Enterobacterales,43.24232557,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.65128865,48.0317956,1.69E-78
+chr.1.29668364,Enterobacterales,47.02562948,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,12.81283372,48.16987448,2.09E-81
+chr.5.27303523,Enterobacterales,37.27934585,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,51.61459944,15.17022882,4.16E-64
+chr.1.29652917,Enterobacterales,42.41013844,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.51282995,47.81671266,5.35E-80
+chr.1.29652859,Enterobacterales,40.46313159,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.81671266,13.71304615,1.06E-79
+chr.1.29652864,Enterobacterales,40.46313159,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.81671266,13.71304615,1.06E-79
+chr.1.29652729,Enterobacterales,40.4957714,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.73411561,48.0317956,1.09E-78
+chr.1.29652731,Enterobacterales,40.4957714,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.73411561,1.09E-78
+chr.1.29652734,Enterobacterales,40.4957714,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.73411561,48.0317956,1.09E-78
+chr.1.29652740,Enterobacterales,40.4957714,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.73411561,1.09E-78
+chr.1.29652897,Enterobacterales,42.12569658,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.54818669,47.81671266,6.12E-80
+chr.1.29652903,Enterobacterales,42.12569658,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.81671266,13.54818669,6.12E-80
+chr.1.29653337,Enterobacterales,41.65846932,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.15714725,13.92623833,2.93E-79
+chr.1.29652751,Enterobacterales,40.08587304,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.77933785,48.0317956,1.27E-78
+chr.1.29652590,Enterobacterales,40.74047611,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.8464031,48.0317956,2.36E-78
+chr.4.29189256,Enterobacterales,45.05316717,Locus6,CDS,Os04g0571800,"Zinc finger, RING-type domain containing protein.",12.95012323,48.16987448,2.54E-81
+chr.1.29652885,Enterobacterales,40.43487857,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.81671266,13.80648069,1.94E-79
+chr.1.29652886,Enterobacterales,40.43487857,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.81671266,13.80648069,1.94E-79
+chr.1.29652887,Enterobacterales,40.43487857,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.80648069,47.81671266,1.94E-79
+chr.4.26626048,Enterobacterales,42.01211967,Locus19,CDS,Os04g0524300,Similar to ZmRR2 protein (Response regulator 2).,49.10453672,13.90626188,3.12E-72
+chr.5.27300376,Enterobacterales,41.32848901,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,50.48929242,14.12231551,1.28E-67
+chr.5.23113158,Enterobacterales,47.99065972,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.32168728,13.13277623,7.23E-79
+chr.5.23113428,Enterobacterales,46.49425938,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.409863,13.31155574,1.2E-76
+chr.1.29668384,Enterobacterales,46.33503521,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,12.98360499,48.16987448,4.92E-81
+chr.5.27303509,Enterobacterales,36.18549876,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,15.31528621,51.61459944,5.62E-64
+chr.1.29652537,Enterobacterales,41.85312411,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.51010899,48.0317956,3.82E-79
+chr.1.29652543,Enterobacterales,41.85312411,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.51010899,3.82E-79
+chr.1.29652890,Enterobacterales,40.84903535,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.76899354,47.81671266,1.73E-79
+chr.1.29652894,Enterobacterales,40.84903535,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.76899354,47.81671266,1.73E-79
+chr.5.27300372,Enterobacterales,41.13771678,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,14.22035145,50.48929242,1.99E-67
+chr.12.5568304,Enterobacterales,36.80189392,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,13.14736257,45.34156332,4.29E-62
+chr.1.29640714,Enterobacterales,41.95655598,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,13.68342987,48.07855175,3.86E-78
+chr.2.33375776,Enterobacterales,35.5430967,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,53.77897214,15.64760199,9E-55
+chr.5.23111664,Enterobacterales,38.79344414,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,14.39026835,49.15805087,7E-76
+chr.7.12974399,Enterobacterales,42.86053263,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",12.30020672,44.60412875,1.33E-69
+chr.4.26613077,Enterobacterales,46.56514171,Locus19,CDS,Os04g0523700,UDP-glucuronosyl/UDP-glucosyltransferase family protein.,13.20031517,48.33929651,7.38E-80
+chr.1.29652557,Enterobacterales,40.77702603,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.70309027,9.32E-79
+chr.1.29652436,Enterobacterales,42.58501307,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.53972938,5.91E-79
+chr.1.29652443,Enterobacterales,42.58501307,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.53972938,48.0317956,5.91E-79
+chr.1.29652479,Enterobacterales,41.26648938,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.81671266,13.47439673,2.75E-80
+chr.5.23112898,Enterobacterales,46.67305324,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.3879824,13.49158078,7.69E-79
+chr.1.29652473,Enterobacterales,40.76240203,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.61584648,5.28E-79
+chr.1.29652463,Enterobacterales,40.6335266,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.79864792,48.0317956,1.65E-78
+chr.1.29652467,Enterobacterales,40.6335266,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.79864792,1.65E-78
+chr.1.29652327,Enterobacterales,42.70244204,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.58335503,48.0317956,8.16E-79
+chr.1.29652337,Enterobacterales,42.70244204,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.58335503,48.0317956,8.16E-79
+chr.1.29652340,Enterobacterales,42.70244204,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.58335503,8.16E-79
+chr.1.29652344,Enterobacterales,42.70244204,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.58335503,48.0317956,8.16E-79
+chr.1.29652353,Enterobacterales,42.70244204,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.58335503,48.0317956,8.16E-79
+chr.1.29652368,Enterobacterales,42.71170631,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,48.0317956,13.55714013,6.93E-79
+chr.5.13360564,Enterobacterales,37.98801403,Locus9,CDS,Os05g0299200,Conserved hypothetical protein.,14.18287681,48.32973552,1.61E-66
+chr.6.17382075,Enterobacterales,43.45754426,Locus18,CDS,Os06g0484500,Conserved hypothetical protein.,48.3334855,13.57727435,2.83E-77
+chr.7.12974872,Enterobacterales,41.5448786,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",12.24870136,44.23872952,1.01E-66
+chr.4.26631406,Enterobacterales,41.42142761,Locus19,CDS,Os04g0524400,Conserved hypothetical protein.,13.27212963,47.90053156,2.29E-76
+chr.7.12975091,Enterobacterales,43.63615869,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",44.26299576,12.03926472,8.13E-70
+chr.7.15158755,Enterobacterales,43.69108574,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",49.00652594,12.55641838,1.34E-72
+chr.1.29807458,Enterobacterales,36.92278188,Locus8,CDS,Os01g0681000,Protein of unknown function UPF0089 family protein.,50.78140047,14.93352058,5.95E-62
+chr.1.29653520,Enterobacterales,41.10971389,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.55285867,1.84E-74
+chr.1.29653524,Enterobacterales,41.10971389,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.55285867,47.11783287,1.84E-74
+chr.5.23105454,Enterobacterales,41.81929412,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,13.76456399,48.49696515,3.67E-77
+chr.1.29639061,Enterobacterales,44.05578477,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,48.16987448,13.43368239,4.18E-80
+chr.7.12975071,Enterobacterales,43.79097666,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",44.26299576,12.06070147,9.4E-70
+chr.1.29653455,Enterobacterales,39.5975958,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.88182476,47.11783287,9.82E-74
+chr.1.29653458,Enterobacterales,39.5975958,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.88182476,9.82E-74
+chr.1.29653505,Enterobacterales,41.32395485,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.52634258,47.11783287,1.65E-74
+chr.1.29653509,Enterobacterales,41.32395485,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.52634258,1.65E-74
+chr.1.29653511,Enterobacterales,41.32395485,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.52634258,1.65E-74
+chr.1.29653513,Enterobacterales,41.32395485,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.52634258,47.11783287,1.65E-74
+chr.1.29653514,Enterobacterales,41.32395485,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.52634258,1.65E-74
+chr.5.23106196,Enterobacterales,43.71097128,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,13.34326428,48.76791725,5.22E-80
+chr.12.5571771,Enterobacterales,37.17288177,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",45.05028873,13.21130733,1.24E-59
+chr.4.29120110,Enterobacterales,43.80323973,Locus6,CDS,Os04g0570700,Hypothetical protein.,47.62181053,13.28045033,1.12E-80
+chr.1.29653499,Enterobacterales,41.18570078,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.6161048,2.79E-74
+chr.4.26073100,Enterobacterales,43.21606369,Locus22,CDS,Os04g0513700,"Glycoside hydrolase, family 1 protein.",13.32072223,47.77230451,2.23E-79
+chr.5.23104849,Enterobacterales,42.41056798,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,13.46324894,48.15104962,1.27E-77
+chr.1.29653549,Enterobacterales,40.92409951,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.55782204,1.81E-74
+chr.2.33347691,Enterobacterales,37.18326466,Locus25,CDS,Os02g0769800,Similar to Mitogen-activated protein kinase kinase kinase 1 (EC 2.7.1.-) (Arabidospsis NPK1-related protein kinase 1). Splice isoform 1S.,14.58450153,49.43207331,1.65E-66
+chr.7.2981167,Enterobacterales,39.48386792,Locus15,CDS,Os07g0155200,Protein of unknown function DUF150 family protein.,13.98931802,48.63378328,7.08E-69
+chr.5.23111542,Enterobacterales,40.28680809,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.99314439,14.15069222,3.52E-71
+chr.1.29653560,Enterobacterales,39.68056588,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.7785819,5.31E-74
+chr.7.15224363,Enterobacterales,40.62600364,Locus11,CDS,Os07g0435900,SRA-YDG domain containing protein.,12.94431569,45.3512502,3.1E-70
+chr.7.12974705,Enterobacterales,42.41370033,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",12.1777934,44.90060612,7.29E-68
+chr.1.29626418,Enterobacterales,42.43898408,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,48.49182836,13.70027887,1.12E-73
+chr.1.29653565,Enterobacterales,39.47158889,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.80671365,47.11783287,6.02E-74
+chr.1.29625979,Enterobacterales,44.90741107,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,13.39884123,48.55758227,1.01E-72
+chr.2.33342575,Enterobacterales,38.74668829,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,13.62784447,47.8174846,3.19E-72
+chr.5.27299838,Enterobacterales,39.63231793,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,50.48436777,14.53472789,9.25E-70
+chr.9.19505476,Enterobacterales,37.40341056,Locus5,CDS,Os09g0488700,Conserved hypothetical protein.,49.92852262,14.73164825,1.18E-66
+chr.7.12985549,Enterobacterales,37.81621516,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",43.9074193,12.52205647,3.83E-65
+chr.2.33341887,Enterobacterales,38.61661392,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,47.73495219,13.99676432,1.09E-70
+chr.1.29653576,Enterobacterales,39.02826073,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.83382986,47.11783287,6.44E-74
+chr.7.2827614,Enterobacterales,47.62707012,Locus15,CDS,Os07g0152800,Conserved hypothetical protein.,12.87196983,48.12187931,3.96E-77
+chr.1.29653577,Enterobacterales,39.10688559,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,47.11783287,13.87398214,8.44E-74
+chr.5.23107062,Enterobacterales,42.89582907,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,49.71547164,13.92802988,2.64E-75
+chr.7.2827629,Enterobacterales,46.94100102,Locus15,CDS,Os07g0152800,Conserved hypothetical protein.,48.56395695,13.02115241,5.69E-75
+chr.5.27385420,Enterobacterales,29.11785605,Locus14,CDS,Os05g0549800,Transcriptional factor B3 family protein.,11.87248691,38.24870862,1.49E-55
+chr.2.33335308,Enterobacterales,26.81866717,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,50.93061231,16.52505533,8.28E-45
+chr.5.27385306,Enterobacterales,29.21007168,Locus14,CDS,Os05g0549800,Transcriptional factor B3 family protein.,11.74302302,38.39064377,8.86E-57
+chr.5.27385297,Enterobacterales,29.04200304,Locus14,CDS,Os05g0549800,Transcriptional factor B3 family protein.,11.89906455,38.55559906,4.74E-56
+chr.2.33335334,Enterobacterales,26.19850795,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,50.93061231,16.70577557,1.38E-44
+chr.7.2827927,Enterobacterales,43.55741773,Locus15,CDS,Os07g0152800,Conserved hypothetical protein.,13.36539545,48.56395695,1.33E-74
+chr.5.23112095,Enterobacterales,43.44577242,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,13.20772741,48.12187931,7.3E-77
+chr.1.29610351,Enterobacterales,39.00740546,Locus3,CDS,Os01g0677400,Hypothetical protein.,49.51943096,14.47961571,6.95E-67
+chr.2.33342707,Enterobacterales,34.97265984,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,14.55350715,48.29825615,1E-68
+chr.5.27303011,Enterobacterales,32.41091626,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,52.84170396,15.79842557,1.09E-54
+chr.5.25388782,Enterobacterales,45.1959927,Locus20,CDS,Os05g0511300,N2227-like domain containing protein.,13.25508452,48.37245597,1.27E-77
+chr.6.17394345,Enterobacterales,30.7313178,Locus18,CDS,Os06g0484800,RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.,15.25396635,48.08256847,3.69E-66
+chr.6.17381731,Enterobacterales,39.97394825,Locus18,CDS,Os06g0484500,Conserved hypothetical protein.,47.8450387,13.90134217,8.65E-72
+chr.12.5568787,Enterobacterales,39.14293712,Locus4,CDS,Os12g0206800,"Transcription factor, MADS-box domain containing protein.",13.63372782,47.74926048,6.32E-74
+chr.12.5568213,Enterobacterales,37.36065002,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,44.80737844,13.18684692,8.89E-58
+chr.6.17394340,Enterobacterales,31.10643149,Locus18,CDS,Os06g0484800,RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.,15.87472372,50.08690829,5.2E-64
+chr.5.13352190,Enterobacterales,32.69323311,Locus9,CDS,Os05g0299100,Hypothetical protein.,47.68052445,14.87093487,1.38E-67
+chr.7.2827759,Enterobacterales,46.53828201,Locus15,CDS,Os07g0152800,Conserved hypothetical protein.,48.56395695,12.97769481,3.83E-75
+chr.7.2903569,Enterobacterales,41.51255552,Locus15,CDS,Os07g0154100,Similar to Viviparous-14.,47.73421162,13.5365707,1.99E-76
+chr.6.17306801,Enterobacterales,37.52448691,Locus18,CDS,Os06g0483200,Similar to Beta-amyrin synthase.,13.85013646,47.47383733,1.75E-71
+chr.1.29807335,Enterobacterales,35.57830339,Locus8,CDS,Os01g0681000,Protein of unknown function UPF0089 family protein.,15.06037968,50.55193876,1.95E-59
+chr.5.27327906,Enterobacterales,30.89018988,Locus14,CDS,Os05g0549100,"Similar to Serine/threonine-protein kinase SNT7, chloroplast precursor (EC 2.7.1.37) (Stt7 homolog).",38.57589976,11.72031144,7.15E-57
+chr.6.17318520,Enterobacterales,31.89189894,Locus18,CDS,Os06g0483500,Hypothetical protein.,50.38926193,15.20582628,1.5E-56
+chr.5.23106945,Enterobacterales,42.29051407,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.78609754,13.66934246,5.57E-77
+chr.2.33341584,Enterobacterales,38.83557754,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,47.94050424,14.01845052,6.8E-73
+chr.5.27310209,Enterobacterales,28.5685226,Locus14,CDS,Os05g0548900,Similar to Phosphoethanolamine methyltransferase.,38.33504662,12.11559974,3.04E-55
+chr.2.33341714,Enterobacterales,36.53734048,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,14.35146338,47.75011111,3.07E-70
+chr.6.17306869,Enterobacterales,37.32677077,Locus18,CDS,Os06g0483200,Similar to Beta-amyrin synthase.,13.87940915,47.47383733,1.98E-71
+chr.5.23157183,Enterobacterales,33.03897193,Locus23,CDS,Os05g0470900,Conserved hypothetical protein.,12.61899755,42.02181232,2.33E-59
+chr.4.25876748,Enterobacterales,28.30207561,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,40.06006851,13.35289126,5.69E-50
+chr.7.2920695,Enterobacterales,33.88735619,Locus15,CDS,Os07g0154400,Armadillo-like helical domain containing protein.,14.41585363,47.48776415,1.14E-71
+chr.9.21362566,Enterobacterales,35.6291618,Locus17,CDS,Os09g0525400,Similar to RING finger protein 13 (C-RZF).,15.07940538,50.81507473,3.53E-60
+chr.2.33335062,Enterobacterales,23.76272693,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,53.3669507,17.24921582,6.69E-38
+chr.5.27299777,Enterobacterales,29.75060025,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,39.50932611,12.1033651,2.31E-58
+chr.7.15156318,Enterobacterales,38.51164195,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",47.90545555,12.89815582,1.4E-72
+chr.7.15156318,Pseudomonadales,20.48870952,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",47.90545555,12.89815582,1.4E-72
+chr.7.15157342,Enterobacterales,38.48344371,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",45.68831671,12.12499968,1.61E-61
+chr.5.23106093,Enterobacterales,26.59621306,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,13.98215047,41.57511411,6.71E-51
+chr.1.29686454,Pseudomonadales,33.27050412,Locus3,CDS,Os01g0678800,Heavy metal transport/detoxification protein domain containing protein.,35.06558988,11.87790102,9.08E-51
+chr.1.29686454,Enterobacterales,22.54725021,Locus3,CDS,Os01g0678800,Heavy metal transport/detoxification protein domain containing protein.,35.06558988,11.87790102,9.08E-51
+chr.5.13473291,Enterobacterales,32.65065138,Locus9,CDS,Os05g0301200,Protein of unknown function DUF659 domain containing protein.,47.80825648,15.05615843,1.95E-66
+chr.5.27303418,Enterobacterales,27.32874926,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,12.85216574,39.11700783,9.78E-54
+chr.5.27303419,Enterobacterales,27.32874926,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,12.85216574,39.11700783,9.78E-54
+chr.2.33342148,Enterobacterales,33.06765256,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,47.67420695,14.82803455,2.21E-69
+chr.5.13350128,Enterobacterales,24.97522466,Locus9,CDS,Os05g0299000,Hypothetical protein.,16.11999107,47.79538313,1.16E-49
+chr.5.27299415,Enterobacterales,28.85519605,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,55.4363712,16.67464484,7.31E-44
+chr.5.27299418,Enterobacterales,29.56145048,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,16.4896188,55.4363712,5.21E-44
+chr.5.27385738,Enterobacterales,25.14698888,Locus14,CDS,Os05g0549800,Transcriptional factor B3 family protein.,12.62408805,37.84492621,9.39E-51
+chr.2.33342189,Enterobacterales,33.56834514,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,14.83650447,47.67420695,2.6E-69
+chr.10.22777153,Enterobacterales,41.16556847,Locus2,CDS,Os10g0565100,Similar to Metacaspase 1.,48.17060898,13.6768427,1.38E-74
+chr.7.15156013,Enterobacterales,37.02332113,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",13.09398498,48.07609622,7.2E-69
+chr.4.26150092,Enterobacterales,27.2615541,Locus22,CDS,Os04g0515300,Ribosomal protein L14 domain containing protein.,41.24077683,13.77663549,7.87E-48
+chr.1.29681229,Pseudomonadales,33.84475812,Locus3,CDS,Os01g0678700,DP protein.,35.13036578,11.19836176,3.88E-55
+chr.1.29681229,Enterobacterales,24.65480083,Locus3,CDS,Os01g0678700,DP protein.,35.13036578,11.19836176,3.88E-55
+chr.1.29624821,Enterobacterales,36.98996962,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,14.29238802,48.42772948,2.07E-68
+chr.4.25816573,Enterobacterales,26.89759816,Locus16,CDS,Os04g0508600,Lung seven transmembrane receptor family protein.,13.28058225,39.2022678,1.02E-47
+chr.5.27300437,Enterobacterales,36.63928803,Locus14,CDS,Os05g0548600,Tetratricopeptide-like helical domain containing protein.,46.6839429,13.99634956,1.82E-61
+chr.4.26072313,Enterobacterales,25.41186398,Locus22,CDS,Os04g0513700,"Glycoside hydrolase, family 1 protein.",38.5767557,12.72392142,1.81E-46
+chr.4.25879944,Enterobacterales,26.08279753,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,12.9752326,39.00637414,2.31E-47
+chr.1.29624812,Enterobacterales,36.79190419,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,48.42772948,14.34007436,2.56E-68
+chr.5.23157135,Enterobacterales,30.70291596,Locus23,CDS,Os05g0470900,Conserved hypothetical protein.,16.32945342,52.91251453,1.85E-50
+chr.9.21434150,Enterobacterales,32.24882913,Locus17,CDS,Os09g0526700,Similar to UDP-glucose 4-epimerase (EC 5.1.3.2) (Galactowaldenase) (UDP-galactose 4-epimerase).,15.04423418,47.94419085,6.41E-63
+chr.6.17318340,Enterobacterales,30.77232041,Locus18,CDS,Os06g0483500,Hypothetical protein.,15.775177,49.84799267,5.43E-55
+chr.9.21318286,Enterobacterales,26.28741631,Locus17,CDS,Os09g0524500,Conserved hypothetical protein.,13.3116072,40.3417191,4.41E-48
+chr.4.26008875,Enterobacterales,27.36266363,Locus22,CDS,Os04g0512300,"Arp2/3 complex, 34kDa subunit p34-Arc family protein.",13.04664476,39.34326984,2.6E-48
+chr.4.25835442,Enterobacterales,25.88474599,Locus16,CDS,Os04g0508900,Ssl1-like domain containing protein.,39.2022678,13.21002215,1.01E-47
+chr.6.17306995,Enterobacterales,36.26099329,Locus18,CDS,Os06g0483200,Similar to Beta-amyrin synthase.,14.12583589,47.5329847,1.72E-67
+chr.4.25975803,Enterobacterales,20.64477181,Locus16,CDS,Os04g0511600,Similar to RING-H2 finger protein ATL3G.,39.72431624,14.76365725,1.24E-33
+chr.4.25880000,Enterobacterales,26.20807144,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,39.00637414,13.15635626,6.05E-47
+chr.7.2904293,Enterobacterales,30.03447606,Locus15,CDS,Os07g0154100,Similar to Viviparous-14.,15.42283491,48.26920131,1.07E-59
+chr.1.29676537,Pseudomonadales,32.88074336,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,11.80243042,34.51147503,7.23E-51
+chr.1.29676537,Enterobacterales,22.25455027,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,11.80243042,34.51147503,7.23E-51
+chr.10.22925249,Enterobacterales,31.84879685,Locus2,CDS,Os10g0567000,Camphor resistance CrcB protein family protein.,42.07707645,13.03382379,5.88E-55
+chr.2.33335910,Pseudomonadales,38.81492886,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,11.30174522,32.38795847,4.82E-50
+chr.5.13390483,Enterobacterales,32.03255414,Locus9,CDS,Os05g0299600,"Protein of unknown function DUF1677, Oryza sativa family protein.",49.24384804,15.27419661,6.48E-64
+chr.4.25804129,Enterobacterales,23.95473731,Locus16,CDS,Os04g0508500,Similar to Snapdragon myb protein 305 homolog.,38.79016741,13.56775968,1.63E-45
+chr.9.21461804,Enterobacterales,27.48124214,Locus17,CDS,Os09g0527500,Similar to MEG5.,13.81016897,41.31052632,9.09E-47
+chr.1.29696793,Pseudomonadales,28.03076664,Locus3,CDS,Os01g0679000,"RNA polymerase III subunit RPC82, C -terminal domain containing protein.",12.13760971,35.03203005,2E-48
+chr.1.29696793,Enterobacterales,22.35245176,Locus3,CDS,Os01g0679000,"RNA polymerase III subunit RPC82, C -terminal domain containing protein.",12.13760971,35.03203005,2E-48
+chr.4.26105699,Enterobacterales,25.82083914,Locus22,CDS,Os04g0514500,Protein prenyltransferase domain containing protein.,38.57784513,13.03630321,4.24E-46
+chr.9.19508086,Enterobacterales,24.09797573,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",17.1106131,52.20859077,2.68E-43
+chr.4.25798460,Enterobacterales,26.53239976,Locus16,CDS,Os04g0508400,No apical meristem (NAM) protein domain containing protein.,16.05571092,48.61702473,1.66E-56
+chr.10.22779923,Enterobacterales,38.17768107,Locus2,CDS,Os10g0565200,Similar to Beta-amylase PCT-BMYI (EC 3.2.1.2).,14.0045074,49.02267367,6.84E-73
+chr.4.25799910,Enterobacterales,28.91090209,Locus16,CDS,Os04g0508400,No apical meristem (NAM) protein domain containing protein.,15.9357996,49.14329973,3.49E-61
+chr.7.15155817,Enterobacterales,21.62202915,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",15.89359524,48.08076889,9.23E-48
+chr.1.29844545,Enterobacterales,25.841526,Locus8,CDS,Os01g0681800,Conserved hypothetical protein.,15.86731239,47.57819707,5.7E-62
+chr.1.29686518,Pseudomonadales,31.9501519,Locus3,CDS,Os01g0678800,Heavy metal transport/detoxification protein domain containing protein.,34.53226428,12.50635356,1.61E-45
+chr.1.29686518,Enterobacterales,20.1897901,Locus3,CDS,Os01g0678800,Heavy metal transport/detoxification protein domain containing protein.,34.53226428,12.50635356,1.61E-45
+chr.1.29668311,Pseudomonadales,31.63705167,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,34.81755815,11.66986775,1.96E-52
+chr.1.29668311,Enterobacterales,22.06353277,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,34.81755815,11.66986775,1.96E-52
+chr.10.22914800,Enterobacterales,25.56321778,Locus2,CDS,Os10g0566800,"Haem peroxidase, plant/fungal/bacterial family protein.",41.3778783,14.36915622,1.65E-43
+chr.3.5162579,Enterobacterales,29.05862928,Locus10,CDS,Os03g0197700,"Zinc finger, C2H2-type domain containing protein.",16.08425386,50.73373793,5.12E-49
+chr.1.29769071,Pseudomonadales,35.44481221,Locus3,CDS,Os01g0680500,Conserved hypothetical protein.,34.15561393,11.01798495,6.01E-55
+chr.1.29769071,Enterobacterales,23.98771065,Locus3,CDS,Os01g0680500,Conserved hypothetical protein.,34.15561393,11.01798495,6.01E-55
+chr.7.2904651,Enterobacterales,29.43478901,Locus15,CDS,Os07g0154100,Similar to Viviparous-14.,50.03765222,16.05717833,3.1E-55
+chr.4.25804191,Enterobacterales,23.07775755,Locus16,CDS,Os04g0508500,Similar to Snapdragon myb protein 305 homolog.,14.18150323,39.40508338,2.09E-43
+chr.3.5303844,Pseudomonadales,43.26967405,Locus10,CDS,Os03g0200500,40S ribosomal protein S3a (CYC07 protein).,34.34519441,11.52660586,6.59E-51
+chr.3.5303844,Enterobacterales,21.96303685,Locus10,CDS,Os03g0200500,40S ribosomal protein S3a (CYC07 protein).,34.34519441,11.52660586,6.59E-51
+chr.2.33335763,Pseudomonadales,40.55048817,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,32.39605144,11.96429941,6.47E-46
+chr.5.23105994,Enterobacterales,24.49409097,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,43.75361041,14.5500395,1.96E-52
+chr.10.22915086,Enterobacterales,31.01143161,Locus2,CDS,Os10g0566800,"Haem peroxidase, plant/fungal/bacterial family protein.",41.84475348,13.19207809,5.68E-55
+chr.2.33268194,Enterobacterales,23.49241155,Locus25,CDS,Os02g0768700,Conserved hypothetical protein.,50.53721425,17.2009817,3.86E-49
+chr.1.29841976,Pseudomonadales,33.88775432,Locus8,CDS,Os01g0681700,Conserved hypothetical protein.,12.65468601,33.84228793,5.31E-46
+chr.5.23105097,Enterobacterales,28.06624136,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,15.90241048,52.05571256,2.53E-56
+chr.2.33376593,Pseudomonadales,41.8430857,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,11.11730912,33.75868166,1.23E-52
+chr.2.33376593,Enterobacterales,21.74434852,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,11.11730912,33.75868166,1.23E-52
+chr.1.29690801,Pseudomonadales,22.53186156,Locus3,CDS,Os01g0678900,Hypothetical protein.,35.7494901,13.47373084,3.42E-41
+chr.4.26037074,Enterobacterales,25.67729974,Locus22,CDS,Os04g0513000,Conserved hypothetical protein.,16.37008702,51.20263419,1.83E-52
+chr.2.33342186,Enterobacterales,23.57179569,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,17.4168547,53.3131086,2.42E-41
+chr.9.21425948,Enterobacterales,23.03314777,Locus17,CDS,Os09g0526600,Similar to Heat shock factor protein 3 (HSF 3) (Heat shock transcription factor 3) (HSTF 3).,13.3284635,37.91764899,5.7E-44
+chr.2.33342188,Enterobacterales,23.45958373,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,17.46868863,53.3131086,2.68E-41
+chr.9.19507282,Enterobacterales,24.18289325,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",50.95973185,16.81994689,8.52E-46
+chr.1.29652316,Pseudomonadales,32.66253927,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,12.46738387,34.30690007,4.83E-48
+chr.1.29652316,Enterobacterales,20.21985478,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,12.46738387,34.30690007,4.83E-48
+chr.4.26037049,Enterobacterales,24.94283824,Locus22,CDS,Os04g0513000,Conserved hypothetical protein.,16.71856176,51.20263419,5.62E-52
+chr.4.26031412,Enterobacterales,24.81269191,Locus22,CDS,Os04g0512900,Disease resistance protein family protein.,16.62273962,50.82128947,3.81E-50
+chr.4.26105674,Enterobacterales,22.57558576,Locus22,CDS,Os04g0514500,Protein prenyltransferase domain containing protein.,13.75557606,38.36611646,2.06E-39
+chr.5.27309991,Enterobacterales,23.72114594,Locus14,CDS,Os05g0548900,Similar to Phosphoethanolamine methyltransferase.,17.69472067,57.90675917,2.51E-49
+chr.1.29668374,Pseudomonadales,32.13773212,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,34.3011545,11.69574156,2.6E-50
+chr.1.29668374,Enterobacterales,21.28969941,Locus3,CDS,Os01g0678500,Similar to Two-pore calcium channel.,34.3011545,11.69574156,2.6E-50
+chr.2.33377221,Pseudomonadales,38.63073809,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,32.31566175,11.40890501,1.42E-47
+chr.4.26000698,Enterobacterales,20.74907554,Locus22,CDS,Os04g0512100,Hypothetical protein.,50.03708322,17.23294129,1.16E-42
+chr.4.26631797,Enterobacterales,22.35762121,Locus19,CDS,Os04g0524400,Conserved hypothetical protein.,46.9752468,16.45498106,1.12E-41
+chr.5.27303796,Pseudomonadales,23.93593326,Locus14,CDS,Os05g0548700,Protein of unknown function DUF1618 domain containing protein.,33.02730284,12.80353536,7.12E-42
+chr.5.27288746,Enterobacterales,20.39432577,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,12.25133838,34.28415696,1.99E-45
+chr.5.27288760,Enterobacterales,20.39432577,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,34.28415696,12.25133838,1.99E-45
+chr.3.5303720,Pseudomonadales,40.97020896,Locus10,CDS,Os03g0200500,40S ribosomal protein S3a (CYC07 protein).,33.80060004,11.38734205,4.65E-52
+chr.3.5303720,Enterobacterales,21.24441249,Locus10,CDS,Os03g0200500,40S ribosomal protein S3a (CYC07 protein).,33.80060004,11.38734205,4.65E-52
+chr.2.33385078,Pseudomonadales,43.20712724,Locus25,CDS,Os02g0770600,Protein of unknown function DUF1644 family protein.,32.79839129,11.55495598,1.24E-47
+chr.4.25816450,Enterobacterales,21.36223983,Locus16,CDS,Os04g0508600,Lung seven transmembrane receptor family protein.,38.80416214,14.59913629,4.29E-37
+chr.2.33238473,Pseudomonadales,42.03740186,Locus25,CDS,Os02g0768000,Conserved hypothetical protein.,12.13266348,32.58639496,1.41E-45
+chr.2.31986710,Pseudomonadales,34.95576157,Locus24,CDS,Os02g0742500,"Peptidase S1C, HrtA/DegP2/Q/S family protein.",32.61361633,10.83360835,1.31E-53
+chr.2.31986710,Enterobacterales,20.4644665,Locus24,CDS,Os02g0742500,"Peptidase S1C, HrtA/DegP2/Q/S family protein.",32.61361633,10.83360835,1.31E-53
+chr.1.29686256,Pseudomonadales,26.89500192,Locus3,CDS,Os01g0678800,Heavy metal transport/detoxification protein domain containing protein.,11.74249709,33.12251978,5.8E-47
+chr.5.27289172,Enterobacterales,20.72334938,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,12.28999623,34.40061684,1.37E-45
+chr.5.23105424,Enterobacterales,22.63192317,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,48.14647539,16.77679866,1.71E-47
+chr.4.26719676,Enterobacterales,26.92747101,Locus19,CDS,Os04g0526300,Sulfotransferase family protein.,15.47138137,46.10571307,6.37E-64
+chr.1.29583295,Pseudomonadales,37.79304018,Locus3,CDS,Os01g0676701,Conserved hypothetical protein.,32.34512778,11.47069221,5.2E-48
+chr.1.29653277,Enterobacterales,23.64588803,Locus3,CDS,Os01g0678400,Conserved hypothetical protein.,13.62458142,38.04296324,8.93E-47
+chr.4.26719038,Enterobacterales,27.84622697,Locus19,CDS,Os04g0526300,Sulfotransferase family protein.,45.57192739,15.11882643,6.95E-69
+chr.2.32008974,Pseudomonadales,32.74304456,Locus24,CDS,Os02g0742800,Conserved hypothetical protein.,33.42658749,10.69918912,6.71E-57
+chr.2.32008974,Enterobacterales,21.88383804,Locus24,CDS,Os02g0742800,Conserved hypothetical protein.,33.42658749,10.69918912,6.71E-57
+chr.9.19538685,Enterobacterales,32.68786052,Locus5,CDS,Os09g0490200,Similar to EIL3.,15.73845292,52.39560127,4.32E-53
+chr.2.32014037,Pseudomonadales,35.02537496,Locus24,CDS,Os02g0742900,Similar to Kinesin-like protein.,10.50095703,32.31594365,5.15E-58
+chr.2.32014037,Enterobacterales,21.60532029,Locus24,CDS,Os02g0742900,Similar to Kinesin-like protein.,10.50095703,32.31594365,5.15E-58
+chr.5.27289165,Enterobacterales,21.3062753,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,12.25061673,34.6636848,2.2E-46
+chr.5.27289168,Enterobacterales,21.3062753,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,12.25061673,34.6636848,2.2E-46
+chr.4.25804358,Enterobacterales,22.01018607,Locus16,CDS,Os04g0508500,Similar to Snapdragon myb protein 305 homolog.,14.3338057,38.85912747,7.12E-38
+chr.1.19338602,Pseudomonadales,21.17077067,Locus13,CDS,Os01g0507000,Hypothetical protein.,30.29209922,11.38140708,2.17E-43
+chr.5.27288883,Enterobacterales,20.69232257,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,12.22901073,34.50829389,3.02E-46
+chr.5.27343834,Pseudomonadales,22.44154585,Locus14,CDS,Os05g0549300,Conserved hypothetical protein.,32.30903709,12.2044741,1.85E-43
+chr.5.27288793,Enterobacterales,20.54063149,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,34.36531374,12.27501493,3.3E-46
+chr.5.27288820,Enterobacterales,20.75757067,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,34.62311246,12.35374305,1.54E-46
+chr.2.31888071,Pseudomonadales,32.30657567,Locus24,CDS,Os02g0741200,Similar to Peroxidase 65 precursor (EC 1.11.1.7) (Atperox P65) (ATP43).,32.54810346,10.88009518,1.3E-53
+chr.2.31888071,Enterobacterales,20.36855294,Locus24,CDS,Os02g0741200,Similar to Peroxidase 65 precursor (EC 1.11.1.7) (Atperox P65) (ATP43).,32.54810346,10.88009518,1.3E-53
+chr.1.29690550,Pseudomonadales,28.18022001,Locus3,CDS,Os01g0678900,Hypothetical protein.,13.37165268,34.32423968,3.47E-42
+chr.2.33375756,Pseudomonadales,40.93028067,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,11.59971719,32.6726943,1.55E-47
+chr.1.29822444,Enterobacterales,25.5283235,Locus8,CDS,Os01g0681200,Similar to Acyl-CoA synthetase (EC 6.2.1.3).,16.04510023,48.11742788,8.31E-58
+chr.2.31887248,Pseudomonadales,36.10600047,Locus24,CDS,Os02g0741200,Similar to Peroxidase 65 precursor (EC 1.11.1.7) (Atperox P65) (ATP43).,11.89729757,32.3431742,4.36E-46
+chr.1.29583229,Pseudomonadales,39.51474201,Locus3,CDS,Os01g0676701,Conserved hypothetical protein.,32.66574303,11.50695616,5.8E-48
+chr.3.5316616,Enterobacterales,23.98592193,Locus10,CDS,Os03g0200800,ADP-ribosylation factor family protein.,17.17980293,54.04233464,2.61E-43
+chr.1.29624875,Pseudomonadales,41.11712484,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,11.59414011,34.33330087,4.51E-52
+chr.1.29624875,Enterobacterales,21.74120413,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,11.59414011,34.33330087,4.51E-52
+chr.5.27288166,Enterobacterales,21.71992215,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,34.93378031,12.19327838,3.26E-47
+chr.2.33341671,Pseudomonadales,42.23052341,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,11.75964227,32.87475332,1.48E-48
+chr.5.27344205,Pseudomonadales,21.95772374,Locus14,CDS,Os05g0549300,Conserved hypothetical protein.,32.16327954,12.73962413,5.51E-39
+chr.3.5208548,Enterobacterales,22.81490065,Locus10,CDS,Os03g0198600,Similar to HAHB-7 (Fragment).,17.23683857,53.05135016,5.15E-43
+chr.7.2980767,Enterobacterales,23.90244419,Locus15,CDS,Os07g0155200,Protein of unknown function DUF150 family protein.,54.93803142,17.25889037,2.43E-42
+chr.10.22919791,Enterobacterales,28.0411066,Locus2,CDS,Os10g0566900,Conserved hypothetical protein.,40.73301085,13.52821116,2.24E-46
+chr.3.5187293,Pseudomonadales,42.95926236,Locus10,CDS,Os03g0198200,Hypothetical protein.,33.89467267,11.59698577,5.94E-50
+chr.3.5187293,Enterobacterales,21.05160565,Locus10,CDS,Os03g0198200,Hypothetical protein.,33.89467267,11.59698577,5.94E-50
+chr.5.27288910,Enterobacterales,20.67969109,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,34.42620553,12.09673467,2.87E-46
+chr.4.26654535,Enterobacterales,24.91494443,Locus19,CDS,Os04g0524900,Similar to Metal-nicotianamine transporter YSL2.,17.49661565,56.1841638,4.34E-42
+chr.4.26649645,Enterobacterales,25.01895005,Locus19,CDS,Os04g0524600,Oligopeptide transporter OPT superfamily protein.,52.61991568,17.01753019,5.46E-45
+chr.5.27288185,Enterobacterales,20.35246384,Locus14,CDS,Os05g0548300,Similar to Multidrug resistance protein 1 homolog.,12.54862727,34.66381195,1.13E-44
+chr.9.19539287,Enterobacterales,30.22827292,Locus5,CDS,Os09g0490200,Similar to EIL3.,16.14711639,53.30953368,2.24E-50
+chr.4.26566668,Enterobacterales,27.53766111,Locus19,CDS,Os04g0523000,Photosystem II oxygen evolving complex protein PsbQ family protein.,48.70020824,15.80199611,1.74E-56
+chr.9.19559826,Enterobacterales,20.13089804,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,59.93308856,18.68298595,2.33E-33
+chr.9.19539236,Enterobacterales,30.25296373,Locus5,CDS,Os09g0490200,Similar to EIL3.,16.19414451,53.30953368,2.71E-50
+chr.2.31897213,Pseudomonadales,32.5909334,Locus24,CDS,Os02g0741400,Conserved hypothetical protein.,32.33907431,11.23419715,3.51E-50
+chr.7.15267556,Enterobacterales,23.23613488,Locus11,CDS,Os07g0436600,Tetratricopeptide-like helical domain containing protein.,13.90752041,39.04133862,4.24E-42
+chr.4.26698677,Enterobacterales,31.17874693,Locus19,CDS,Os04g0525900,Major facilitator superfamily protein.,14.81995172,46.55385404,1.83E-66
+chr.2.31957027,Pseudomonadales,33.423897,Locus24,CDS,Os02g0742000,Bromo adjacent region domain containing protein.,32.01494786,11.04701783,4.63E-52
+chr.2.33359393,Pseudomonadales,40.12128333,Locus25,CDS,Os02g0770100,Conserved hypothetical protein.,32.34283718,11.78675255,2.78E-47
+chr.4.26698711,Enterobacterales,31.95375153,Locus19,CDS,Os04g0525900,Major facilitator superfamily protein.,46.55385404,14.67759344,9.21E-67
+chr.5.27344315,Pseudomonadales,22.92244522,Locus14,CDS,Os05g0549300,Conserved hypothetical protein.,32.31528675,13.27165753,5.63E-37
+chr.2.33376220,Pseudomonadales,41.36901813,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,11.41362014,33.68462765,4.88E-51
+chr.2.33376220,Enterobacterales,20.80006736,Locus25,CDS,Os02g0770500,Similar to WRKY transcription factor 32.,11.41362014,33.68462765,4.88E-51
+chr.5.25327549,Enterobacterales,22.92302373,Locus20,CDS,Os05g0510100,Protein of unknown function DUF567 family protein.,45.86228701,16.3193885,1.35E-56
+chr.3.5187335,Pseudomonadales,42.5099072,Locus10,CDS,Os03g0198200,Hypothetical protein.,34.27199015,11.57394403,1.37E-50
+chr.3.5187335,Enterobacterales,21.54768329,Locus10,CDS,Os03g0198200,Hypothetical protein.,34.27199015,11.57394403,1.37E-50
+chr.1.29791037,Pseudomonadales,30.27447344,Locus8,CDS,Os01g0681000,Protein of unknown function UPF0089 family protein.,34.14706525,12.31665695,1.79E-45
+chr.1.29791037,Enterobacterales,20.27108379,Locus8,CDS,Os01g0681000,Protein of unknown function UPF0089 family protein.,34.14706525,12.31665695,1.79E-45
+chr.2.33341635,Pseudomonadales,42.48947209,Locus25,CDS,Os02g0769700,Protein kinase-like domain containing protein.,32.47102787,11.7374323,5.05E-47
+chr.7.2903263,Enterobacterales,23.36723426,Locus15,CDS,Os07g0154100,Similar to Viviparous-14.,48.45799727,16.65247611,6.67E-50
+chr.6.17392255,Pseudomonadales,25.75958941,Locus18,CDS,Os06g0484800,RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.,32.42402079,10.75848604,1.9E-49
+chr.2.31954662,Pseudomonadales,36.52035586,Locus24,CDS,Os02g0742000,Bromo adjacent region domain containing protein.,31.9466102,11.21466874,1.37E-50
+chr.2.31897120,Pseudomonadales,32.36994669,Locus24,CDS,Os02g0741400,Conserved hypothetical protein.,11.07232365,32.44012183,1.17E-49
+chr.2.33335782,Enterobacterales,21.75614653,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,51.97691413,17.43284688,2.15E-37
+chr.4.25877432,Enterobacterales,21.30377394,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,17.01517524,48.62590168,2.65E-43
+chr.1.29641537,Pseudomonadales,35.03764692,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,31.99035151,12.18058714,2.7E-43
+chr.1.29626676,Pseudomonadales,33.83271566,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,11.79527507,33.03763095,5.71E-50
+chr.2.33335318,Pseudomonadales,40.75600487,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,12.09178547,31.91845202,1.26E-44
+chr.4.26032483,Enterobacterales,24.26376306,Locus22,CDS,Os04g0512900,Disease resistance protein family protein.,16.64163265,50.68491902,1.17E-50
+chr.3.5334618,Pseudomonadales,40.53113488,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,33.17718828,11.41362198,2.51E-50
+chr.3.5334618,Enterobacterales,20.00119992,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,33.17718828,11.41362198,2.51E-50
+chr.4.26649583,Enterobacterales,24.75334427,Locus19,CDS,Os04g0524600,Oligopeptide transporter OPT superfamily protein.,16.84020852,51.85529239,3.26E-44
+chr.1.19338689,Pseudomonadales,27.72554015,Locus13,CDS,Os01g0507000,Hypothetical protein.,32.15147597,11.40969638,5.81E-48
+chr.6.17306779,Enterobacterales,23.49796792,Locus18,CDS,Os06g0483200,Similar to Beta-amyrin synthase.,39.67541691,13.99474855,1.61E-43
+chr.1.19263548,Pseudomonadales,28.89131435,Locus13,CDS,Os01g0506100,Globin-like family protein.,30.76376484,11.60812627,1.76E-44
+chr.4.25823739,Enterobacterales,21.19892569,Locus16,CDS,Os04g0508800,Similar to Retroelement pol polyprotein-like.,48.90341778,16.92521398,2.02E-41
+chr.2.33357510,Pseudomonadales,38.60874139,Locus25,CDS,Os02g0770100,Conserved hypothetical protein.,33.2429384,11.95428075,1.22E-47
+chr.3.5208600,Pseudomonadales,41.71058988,Locus10,CDS,Os03g0198600,Similar to HAHB-7 (Fragment).,33.1490171,11.85203804,2.7E-48
+chr.1.29632327,Pseudomonadales,35.72300695,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,11.68109434,31.89543121,3.61E-47
+chr.1.19263385,Pseudomonadales,23.18791595,Locus13,CDS,Os01g0506100,Globin-like family protein.,29.84849673,10.31431834,3.76E-51
+chr.12.5701027,Pseudomonadales,23.76243383,Locus4,CDS,Os12g0209200,Similar to CONSTANS-LIKE a.,12.7760329,31.78616793,9.01E-38
+chr.5.25338191,Pseudomonadales,33.37264978,Locus20,CDS,Os05g0510300,"Peptidase C19, ubiquitin carboxyl-terminal hydrolase 2 family protein.",12.06963018,31.31807903,1.61E-41
+chr.4.26686363,Enterobacterales,23.89422181,Locus19,CDS,Os04g0525700,Similar to Serine carboxypeptidase II precursor (EC 3.4.16.6) (Carboxypeptidase D) (Bri1 suppressor 1) [Contains: Serine carboxypeptidase II chain A; Serine carboxypeptidase II chain B].,17.04775817,52.4949113,6.02E-58
+chr.1.29600313,Pseudomonadales,38.82833659,Locus3,CDS,Os01g0677100,Conserved hypothetical protein.,32.66633014,12.04719799,1.9E-46
+chr.1.19263125,Pseudomonadales,22.66806726,Locus13,CDS,Os01g0506100,Globin-like family protein.,10.45051539,30.12962365,1.5E-49
+chr.2.33261977,Pseudomonadales,37.36005333,Locus25,CDS,Os02g0768600,Similar to Chloroplast inorganic pyrophosphatase (EC 3.6.1.1).,11.77306418,32.90322483,8.07E-48
+chr.1.29632285,Pseudomonadales,35.84525856,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,31.74688805,11.72671697,4.86E-46
+chr.1.19263155,Pseudomonadales,23.39708973,Locus13,CDS,Os01g0506100,Globin-like family protein.,10.57848637,29.87700662,1.34E-48
+chr.2.32010843,Pseudomonadales,33.55528656,Locus24,CDS,Os02g0742800,Conserved hypothetical protein.,11.26287915,31.70007816,8.42E-51
+chr.3.5229364,Pseudomonadales,38.07876355,Locus10,CDS,Os03g0198900,DNA glycosylase family protein.,10.95008012,33.58610547,1.24E-53
+chr.3.5229364,Enterobacterales,21.65982993,Locus10,CDS,Os03g0198900,DNA glycosylase family protein.,10.95008012,33.58610547,1.24E-53
+chr.11.11749628,Pseudomonadales,35.06136111,Locus12,CDS,Os11g0307600,Similar to Hydroxyproline-rich glycoprotein DZ-HRGP precursor.,11.50786819,32.98224378,3.39E-48
+chr.3.5322908,Pseudomonadales,42.20556194,Locus10,CDS,Os03g0201000,Conserved hypothetical protein.,11.7215901,33.10503455,5.75E-48
+chr.1.29583301,Pseudomonadales,37.33898891,Locus3,CDS,Os01g0676701,Conserved hypothetical protein.,32.05562191,11.53923811,1.05E-46
+chr.5.27279046,Enterobacterales,20.93777128,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,35.36115934,12.68621266,1.09E-45
+chr.4.29144850,Enterobacterales,26.23013882,Locus6,CDS,Os04g0571200,"Zinc finger, RING-type domain containing protein.",48.14632692,15.61423551,1.96E-48
+chr.3.5333958,Pseudomonadales,40.10022336,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,33.13912842,11.83581202,8.4E-49
+chr.11.11731657,Pseudomonadales,28.49085868,Locus12,CDS,Os11g0307600,Similar to Hydroxyproline-rich glycoprotein DZ-HRGP precursor.,10.80045152,35.1995773,1.14E-52
+chr.4.26041564,Enterobacterales,22.85464539,Locus22,CDS,Os04g0513100,Similar to Beta-glucosidase.,50.06127343,16.8372711,2.38E-49
+chr.9.19643339,Pseudomonadales,35.27272737,Locus5,CDS,Os09g0491772,Similar to Heat shock protein 70 (Hsc70-5).,31.80072004,11.37347717,6.56E-47
+chr.5.25336552,Pseudomonadales,33.51594231,Locus20,CDS,Os05g0510300,"Peptidase C19, ubiquitin carboxyl-terminal hydrolase 2 family protein.",31.46550456,11.47726965,5.78E-46
+chr.12.5674430,Pseudomonadales,28.18370415,Locus4,CDS,Os12g0208900,ZF-HD homeobox protein Cys/His-rich dimerisation region domain containing protein.,31.67971179,11.84308619,7.85E-45
+chr.5.25358674,Pseudomonadales,31.38882608,Locus20,CDS,Os05g0510700,BSD domain containing protein.,32.0052682,11.48233192,3.16E-47
+chr.3.5333507,Pseudomonadales,41.70001634,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,33.67227133,11.55769692,1.4E-50
+chr.3.5333507,Enterobacterales,20.53446998,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,33.67227133,11.55769692,1.4E-50
+chr.5.27343694,Enterobacterales,21.46722412,Locus14,CDS,Os05g0549300,Conserved hypothetical protein.,17.14389798,49.17466639,5.05E-51
+chr.3.5229600,Enterobacterales,23.65375876,Locus10,CDS,Os03g0198900,DNA glycosylase family protein.,17.08001704,53.52502094,4.62E-48
+chr.1.29811617,Enterobacterales,25.08388401,Locus8,CDS,Os01g0681100,Similar to Dynamin-related protein 1B (Dynamin-like protein B).,16.67075352,50.41736967,1.36E-50
+chr.7.12974430,Pseudomonadales,34.87957304,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",32.98956766,10.91113397,8.34E-54
+chr.7.12974430,Enterobacterales,21.28069372,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",32.98956766,10.91113397,8.34E-54
+chr.1.29632259,Pseudomonadales,30.04707145,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,32.09306951,12.60531803,6.28E-41
+chr.7.12975136,Pseudomonadales,36.44681596,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",32.74194585,11.48508131,5.17E-50
+chr.5.23127182,Pseudomonadales,28.40399677,Locus23,CDS,Os05g0470000,"Protein of unknown function DUF231, plant domain containing protein.",11.00036311,32.04318944,4.04E-50
+chr.3.5333898,Pseudomonadales,39.75200623,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,11.82004882,33.17596694,2.13E-48
+chr.4.26719091,Enterobacterales,22.40674258,Locus19,CDS,Os04g0526300,Sulfotransferase family protein.,15.3862827,42.40410413,2E-50
+chr.4.26709519,Enterobacterales,25.38722821,Locus19,CDS,Os04g0526000,Similar to Auxin-induced basic helix-loop-helix transcription factor.,37.76798795,12.85121474,2.79E-47
+chr.2.25880561,Pseudomonadales,49.71729884,Locus1,CDS,Os02g0626600,Phenylalanine ammonia-lyase family protein.,12.30953072,29.949058,6.42E-38
+chr.2.33335061,Pseudomonadales,40.74287097,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,31.96077554,12.35605131,1.85E-42
+chr.2.31897394,Pseudomonadales,30.12659058,Locus24,CDS,Os02g0741400,Conserved hypothetical protein.,12.20277089,31.2189452,3.21E-41
+chr.5.27279244,Enterobacterales,20.57108136,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,34.68651885,12.49454278,1.12E-44
+chr.5.27279272,Enterobacterales,20.56822919,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,12.48547344,34.68112619,1.13E-44
+chr.1.29775915,Pseudomonadales,33.76598772,Locus8,CDS,Os01g0680700,Protein of unknown function DUF1639 family protein.,12.01986279,33.23882728,1.01E-48
+chr.5.27343738,Enterobacterales,21.37040789,Locus14,CDS,Os05g0549300,Conserved hypothetical protein.,49.17466639,17.23347046,7.19E-51
+chr.5.27279177,Enterobacterales,21.05357578,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,34.93436984,12.48514121,3.09E-45
+chr.3.5242220,Pseudomonadales,40.36325019,Locus10,CDS,Os03g0199100,Protein of unknown function DUF677 family protein.,12.223221,32.30623636,3.55E-44
+chr.9.21318380,Pseudomonadales,32.92189628,Locus17,CDS,Os09g0524500,Conserved hypothetical protein.,11.57581266,32.44216358,1.16E-46
+chr.12.5704822,Pseudomonadales,27.30988326,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",31.54055964,11.53942322,1.43E-46
+chr.3.5289931,Pseudomonadales,41.41954748,Locus10,CDS,Os03g0200200,Conserved hypothetical protein.,12.34677721,32.9636026,3.2E-45
+chr.6.17475952,Pseudomonadales,30.70942582,Locus18,CDS,Os06g0486300,Similar to Mlo.,33.4343223,12.81705917,7.12E-40
+chr.9.19498806,Pseudomonadales,27.18767002,Locus5,CDS,Os09g0488600,"Protein kinase PKN/PRK1, effector domain containing protein.",31.13552913,10.66072895,1.19E-49
+chr.3.5233974,Enterobacterales,23.64099152,Locus10,CDS,Os03g0199000,Conserved hypothetical protein.,16.84840651,49.2289541,3.18E-51
+chr.2.33335078,Pseudomonadales,40.93629571,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,12.41518682,32.05431785,4.48E-42
+chr.2.33335212,Pseudomonadales,39.86542465,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,12.01977446,31.6092546,2.35E-43
+chr.7.15157341,Pseudomonadales,29.93539801,Locus11,CDS,Os07g0434200,"Reverse transcriptase, RNA-dependent DNA polymerase family protein.",33.03680873,11.08869234,7.26E-44
+chr.1.19263660,Pseudomonadales,26.98512186,Locus13,CDS,Os01g0506100,Globin-like family protein.,30.22482894,12.30230576,1.12E-37
+chr.2.25845726,Pseudomonadales,41.83802249,Locus1,CDS,Os02g0625900,Conserved hypothetical protein.,29.95532422,13.39478401,4.17E-32
+chr.6.17394913,Pseudomonadales,26.39804509,Locus18,CDS,Os06g0484800,RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.,32.52024417,12.61054119,1.14E-38
+chr.12.5704339,Pseudomonadales,26.31360004,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",11.6935952,30.98053965,2.37E-44
+chr.4.25835491,Enterobacterales,20.14236636,Locus16,CDS,Os04g0508900,Ssl1-like domain containing protein.,16.76821731,46.51080911,2.35E-46
+chr.2.33335100,Pseudomonadales,40.74154582,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,31.63675012,12.41518682,5.4E-41
+chr.4.25876332,Enterobacterales,20.07031986,Locus16,CDS,Os04g0509300,Protein of unknown function DUF283 domain containing protein.,17.21668582,49.7572259,1.53E-39
+chr.9.19657981,Pseudomonadales,29.80025497,Locus5,CDS,Os09g0491820,NAD-dependent epimerase/dehydratase family protein.,11.00061011,31.20196621,5.66E-48
+chr.5.27278981,Enterobacterales,20.28575082,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,12.77040511,34.88778488,1.37E-44
+chr.5.27278982,Enterobacterales,20.28575082,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,12.77040511,34.88778488,1.37E-44
+chr.2.26008613,Pseudomonadales,41.51291675,Locus1,CDS,Os02g0628200,Protein of unknown function DUF250 domain containing protein.,12.66434364,30.16738024,1.02E-36
+chr.2.33358137,Enterobacterales,21.12331267,Locus25,CDS,Os02g0770100,Conserved hypothetical protein.,16.80801774,46.58563716,3.07E-48
+chr.12.5706702,Pseudomonadales,27.28634945,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",31.60035714,12.14899597,7.97E-44
+chr.1.29853594,Pseudomonadales,23.16638754,Locus8,CDS,Os01g0681900,NADH dependent Glutamate Synthase precursor (EC 1.4.1.14).,33.09357385,15.58568249,1.53E-23
+chr.3.5246486,Pseudomonadales,36.42233124,Locus10,CDS,Os03g0199200,Conserved hypothetical protein.,11.55630675,31.99747243,7.82E-46
+chr.4.25815968,Enterobacterales,20.40220547,Locus16,CDS,Os04g0508600,Lung seven transmembrane receptor family protein.,48.22080071,16.90071017,2.26E-44
+chr.2.25894232,Pseudomonadales,51.07781043,Locus1,CDS,Os02g0627100,Similar to Phenylalanine ammonia-lyase (EC 4.3.1.5).,13.07235617,29.78344203,1.86E-32
+chr.7.15224114,Pseudomonadales,30.30495858,Locus11,CDS,Os07g0435900,SRA-YDG domain containing protein.,32.92758356,11.33985613,2.6E-50
+chr.5.27279131,Enterobacterales,20.30113859,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,34.53731782,12.40762571,7.47E-45
+chr.5.27278940,Enterobacterales,20.34716373,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,35.18912229,12.846775,4.44E-45
+chr.12.5704523,Pseudomonadales,26.88665214,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",11.42730882,30.90603962,4.26E-46
+chr.10.22829825,Enterobacterales,25.11254532,Locus2,CDS,Os10g0565500,Conserved hypothetical protein.,17.0337132,52.19558156,2.7E-47
+chr.5.25440698,Enterobacterales,21.5662208,Locus20,CDS,Os05g0512100,Conserved hypothetical protein.,11.70478202,34.73448554,1.15E-52
+chr.5.23125622,Pseudomonadales,26.99154325,Locus23,CDS,Os05g0469900,Conserved hypothetical protein.,11.21061815,31.62991637,2.78E-48
+chr.5.25379451,Pseudomonadales,30.56411546,Locus20,CDS,Os05g0511050,"Peptidase A1, pepsin family protein.",11.35307639,31.13723397,9.14E-47
+chr.1.19262292,Pseudomonadales,27.50279651,Locus13,CDS,Os01g0506100,Globin-like family protein.,31.63715526,11.33956673,7.36E-50
+chr.5.27278963,Enterobacterales,20.0979706,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,34.88778488,12.83706264,2.41E-44
+chr.5.27278968,Enterobacterales,20.0979706,Locus14,CDS,Os05g0548100,Conserved hypothetical protein.,12.83706264,34.88778488,2.41E-44
+chr.1.29625174,Enterobacterales,21.36644508,Locus3,CDS,Os01g0677900,Conserved hypothetical protein.,48.43373523,16.86554275,9.58E-37
+chr.9.19643825,Pseudomonadales,34.45550592,Locus5,CDS,Os09g0491772,Similar to Heat shock protein 70 (Hsc70-5).,10.89791225,31.90292204,1.71E-51
+chr.9.19643837,Pseudomonadales,34.45550592,Locus5,CDS,Os09g0491772,Similar to Heat shock protein 70 (Hsc70-5).,31.90292204,10.89791225,1.71E-51
+chr.9.19643854,Pseudomonadales,34.45550592,Locus5,CDS,Os09g0491772,Similar to Heat shock protein 70 (Hsc70-5).,10.89791225,31.90292204,1.71E-51
+chr.2.25939555,Pseudomonadales,48.88906376,Locus1,CDS,Os02g0627700,Similar to Cyclic nucleotide-gated channel A (Fragment).,12.64780821,30.4221611,7.9E-37
+chr.12.5703094,Pseudomonadales,26.32252916,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",31.31657679,11.51889145,1.43E-47
+chr.2.31919744,Pseudomonadales,30.59938423,Locus24,CDS,Os02g0741500,Ribbon-helix-helix domain containing protein.,31.9679502,12.3156138,3.69E-42
+chr.1.19354183,Pseudomonadales,28.83058117,Locus13,CDS,Os01g0507300,"Protein of unknown function DUF92, transmembrane family protein.",30.92937598,10.89254891,4.4E-49
+chr.5.25327681,Pseudomonadales,32.2401814,Locus20,CDS,Os05g0510100,Protein of unknown function DUF567 family protein.,12.15210876,32.09250664,1.26E-43
+chr.2.25881356,Pseudomonadales,28.32152087,Locus1,CDS,Os02g0626600,Phenylalanine ammonia-lyase family protein.,28.41529304,10.85887801,1.75E-41
+chr.2.26021259,Pseudomonadales,46.94956764,Locus1,CDS,Os02g0628600,Transcriptional factor B3 family protein.,30.58648635,13.07760029,5.53E-35
+chr.1.19354238,Pseudomonadales,27.19754894,Locus13,CDS,Os01g0507300,"Protein of unknown function DUF92, transmembrane family protein.",10.70193304,31.11553252,1.5E-50
+chr.12.5674996,Pseudomonadales,29.31564894,Locus4,CDS,Os12g0208900,ZF-HD homeobox protein Cys/His-rich dimerisation region domain containing protein.,12.08259164,32.3992754,1.84E-45
+chr.1.29848634,Pseudomonadales,22.84344255,Locus8,CDS,Os01g0681900,NADH dependent Glutamate Synthase precursor (EC 1.4.1.14).,15.5944834,32.68307195,1.66E-23
+chr.5.23043803,Pseudomonadales,29.5718026,Locus23,CDS,Os05g0468600,Conserved hypothetical protein.,10.9717807,31.06422909,8.56E-49
+chr.2.31918395,Pseudomonadales,31.6926867,Locus24,CDS,Os02g0741500,Ribbon-helix-helix domain containing protein.,31.48314589,12.09427471,1.6E-41
+chr.5.23113389,Enterobacterales,21.85260332,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,16.47795842,47.22484608,1.45E-51
+chr.9.19505189,Pseudomonadales,30.87174745,Locus5,CDS,Os09g0488700,Conserved hypothetical protein.,30.78255334,12.05704684,1.55E-40
+chr.9.19676035,Pseudomonadales,29.56587801,Locus5,CDS,Os09g0491852,NAD-dependent epimerase/dehydratase family protein.,30.88539985,10.91512867,4.5E-50
+chr.5.25375118,Pseudomonadales,30.34291121,Locus20,CDS,Os05g0511000,"Protein of unknown function DUF887, TLC-like family protein.",31.08893201,10.91058116,2.27E-48
+chr.5.25379136,Pseudomonadales,29.92777606,Locus20,CDS,Os05g0511050,"Peptidase A1, pepsin family protein.",11.27799958,30.96670769,3.11E-46
+chr.9.19508080,Pseudomonadales,29.56808353,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",30.97157673,11.68646017,1.7E-44
+chr.5.25352503,Pseudomonadales,30.49162768,Locus20,CDS,Os05g0510600,Similar to Tyrosine/dopa decarboxylase (EC 4.1.1.28).,10.86334761,31.40982233,1.7E-48
+chr.2.33357308,Pseudomonadales,36.40422022,Locus25,CDS,Os02g0770100,Conserved hypothetical protein.,31.4025531,12.03502769,1.67E-43
+chr.1.19263640,Pseudomonadales,27.55140783,Locus13,CDS,Os01g0506100,Globin-like family protein.,30.4733567,11.66523078,1.41E-42
+chr.5.25462572,Pseudomonadales,30.11383745,Locus20,CDS,Os05g0512600,X8 domain containing protein.,11.52850819,31.29279206,1.2E-44
+chr.5.23039671,Pseudomonadales,27.93201977,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",10.21915701,31.35802852,4.68E-55
+chr.5.23039640,Pseudomonadales,27.38096791,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",31.52823528,10.17070177,1.77E-55
+chr.2.31869018,Pseudomonadales,29.02364762,Locus24,CDS,Os02g0740700,"Peptidase M10A and M12B, matrixin and adamalysin family protein.",12.43134363,30.96065617,2.7E-39
+chr.1.19272875,Pseudomonadales,22.59194423,Locus13,CDS,Os01g0506200,Tetratricopeptide-like helical domain containing protein.,30.08495895,10.66222073,6.7E-48
+chr.2.31955296,Pseudomonadales,26.49196347,Locus24,CDS,Os02g0742000,Bromo adjacent region domain containing protein.,12.51001001,31.76143584,3.6E-41
+chr.1.29632514,Pseudomonadales,28.7029318,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,31.90365348,13.32733684,9.16E-36
+chr.4.26719401,Enterobacterales,22.18339942,Locus19,CDS,Os04g0526300,Sulfotransferase family protein.,15.40391571,42.49317863,8.48E-50
+chr.9.19640529,Pseudomonadales,35.64117482,Locus5,CDS,Os09g0491756,"U2 snRNP auxiliary factor, small subunit.",31.63060634,11.22597444,8.2E-50
+chr.9.19560553,Pseudomonadales,32.86471581,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,11.90315894,30.64668168,3.32E-40
+chr.9.19611992,Pseudomonadales,32.2815979,Locus5,CDS,Os09g0491676,Conserved hypothetical protein.,12.06349801,30.9272083,1.69E-41
+chr.7.2834176,Enterobacterales,23.83467367,Locus15,CDS,Os07g0153000,ZIM domain containing protein.,16.04175795,46.57232704,3.96E-49
+chr.5.25461485,Pseudomonadales,28.73847997,Locus20,CDS,Os05g0512600,X8 domain containing protein.,10.84051218,30.41217043,5.02E-48
+chr.1.29853191,Pseudomonadales,20.13926017,Locus8,CDS,Os01g0681900,NADH dependent Glutamate Synthase precursor (EC 1.4.1.14).,11.03831086,30.32644233,2.59E-45
+chr.9.19539176,Pseudomonadales,23.33283535,Locus5,CDS,Os09g0490200,Similar to EIL3.,11.06807546,28.82905919,7.99E-42
+chr.9.19539193,Pseudomonadales,23.33283535,Locus5,CDS,Os09g0490200,Similar to EIL3.,28.82905919,11.06807546,7.99E-42
+chr.3.5333271,Pseudomonadales,39.966129,Locus10,CDS,Os03g0201300,Protein prenyltransferase domain containing protein.,11.49689751,32.33583757,2.2E-47
+chr.5.25457158,Pseudomonadales,26.68383642,Locus20,CDS,Os05g0512500,CT20 family protein.,11.61788146,31.5073198,3.01E-44
+chr.1.19354100,Pseudomonadales,27.89618095,Locus13,CDS,Os01g0507300,"Protein of unknown function DUF92, transmembrane family protein.",30.92601481,10.98080774,1.83E-48
+chr.1.19354102,Pseudomonadales,27.89618095,Locus13,CDS,Os01g0507300,"Protein of unknown function DUF92, transmembrane family protein.",30.92601481,10.98080774,1.83E-48
+chr.5.14275518,Pseudomonadales,31.62891246,Locus7,CDS,Os05g0312300,Hypothetical protein.,31.3171578,11.81369059,2.69E-43
+chr.2.33388613,Pseudomonadales,29.3112634,Locus25,CDS,Os02g0770700,"Peptidase C50, separase family protein.",31.41289033,13.43656733,9.39E-33
+chr.5.23051016,Pseudomonadales,28.48416215,Locus23,CDS,Os05g0468600,Conserved hypothetical protein.,31.37493832,11.03037125,3.31E-49
+chr.5.23148584,Pseudomonadales,26.53316228,Locus23,CDS,Os05g0470700,"Zinc finger, RING-type domain containing protein.",11.15918668,31.34429652,2.08E-48
+chr.5.23034838,Pseudomonadales,27.87253871,Locus23,CDS,Os05g0468400,"Galactose oxidase, central domain containing protein.",11.23086244,31.44769014,4.84E-48
+chr.4.26564946,Enterobacterales,20.8494582,Locus19,CDS,Os04g0522800,Photosystem II oxygen evolving complex protein PsbQ family protein.,16.78530475,47.21655313,4.04E-48
+chr.9.19559407,Pseudomonadales,33.76934574,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,11.86364453,30.2418681,3.69E-41
+chr.9.21369059,Pseudomonadales,24.87182231,Locus17,CDS,Os09g0525600,UBA-like domain containing protein.,12.06597831,29.16109485,2.74E-36
+chr.5.25352676,Pseudomonadales,31.43315036,Locus20,CDS,Os05g0510600,Similar to Tyrosine/dopa decarboxylase (EC 4.1.1.28).,11.51217426,30.71954027,2.47E-44
+chr.2.26020986,Pseudomonadales,44.10599163,Locus1,CDS,Os02g0628600,Transcriptional factor B3 family protein.,29.94958206,13.63320962,3.73E-31
+chr.9.21355152,Pseudomonadales,24.39870136,Locus17,CDS,Os09g0525300,Cyclin-like F-box domain containing protein.,11.37150141,29.05736385,1.93E-39
+chr.5.23039779,Pseudomonadales,29.32228363,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",11.34585453,31.22116812,1.96E-46
+chr.9.19507294,Pseudomonadales,30.32921223,Locus5,CDS,Os09g0488800,"Retrovirus capsid, C-terminal domain containing protein.",12.14699406,30.47175047,1.93E-39
+chr.9.19612837,Pseudomonadales,30.39307854,Locus5,CDS,Os09g0491676,Conserved hypothetical protein.,31.87875456,11.37235068,5.66E-48
+chr.9.19672305,Pseudomonadales,21.03864056,Locus5,CDS,Os09g0491836,NAD-dependent epimerase/dehydratase family protein.,32.03740603,13.23131513,3.18E-34
+chr.1.19424758,Pseudomonadales,25.60865686,Locus13,CDS,Os01g0508100,Ferritin/ribonucleotide reductase-like family protein.,11.61583554,30.82402948,2.78E-43
+chr.2.31890859,Pseudomonadales,24.08213547,Locus24,CDS,Os02g0741300,"Glycoside hydrolase, family 47 protein.",32.34409686,12.61214585,1.82E-38
+chr.1.29634070,Pseudomonadales,22.33358577,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,11.05819092,28.8713617,1.16E-42
+chr.7.12974652,Pseudomonadales,33.55754185,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",10.9356616,32.29638204,5.95E-50
+chr.9.21355145,Pseudomonadales,24.07891069,Locus17,CDS,Os09g0525300,Cyclin-like F-box domain containing protein.,11.37150141,28.95690533,2.33E-39
+chr.1.29641332,Pseudomonadales,20.94075862,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,28.81882792,11.35888524,3.83E-41
+chr.5.23066595,Pseudomonadales,28.52283718,Locus23,CDS,Os05g0468900,"Zinc finger, RING-type domain containing protein.",31.48093137,11.1224236,2.56E-48
+chr.9.19619577,Pseudomonadales,31.62092886,Locus5,CDS,Os09g0491708,"HMG-I and HMG-Y, DNA-binding domain containing protein.",11.43277418,31.52857952,1.37E-43
+chr.7.12974205,Pseudomonadales,27.61619783,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",12.04774181,30.40276119,3.57E-40
+chr.5.23050438,Pseudomonadales,27.06050429,Locus23,CDS,Os05g0468600,Conserved hypothetical protein.,31.46666931,10.57593883,8.5E-53
+chr.5.23158399,Pseudomonadales,29.29530358,Locus23,CDS,Os05g0470900,Conserved hypothetical protein.,11.37075812,30.98921313,7.09E-46
+chr.5.23038693,Pseudomonadales,26.81268267,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",11.58028932,32.51400813,1.39E-46
+chr.5.25352491,Pseudomonadales,27.74863976,Locus20,CDS,Os05g0510600,Similar to Tyrosine/dopa decarboxylase (EC 4.1.1.28).,31.29878856,10.75246384,3.45E-49
+chr.5.23113301,Pseudomonadales,26.81731508,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,11.22764925,30.93266623,2.73E-46
+chr.12.5568046,Pseudomonadales,22.84943966,Locus4,CDS,Os12g0206700,Conserved hypothetical protein.,31.56079284,10.86495873,2.15E-48
+chr.5.23025498,Pseudomonadales,25.49214739,Locus23,CDS,Os05g0468200,Conserved hypothetical protein.,30.59041424,11.27827946,5.68E-45
+chr.5.25462484,Pseudomonadales,28.84979589,Locus20,CDS,Os05g0512600,X8 domain containing protein.,11.61825226,30.95341023,1.18E-43
+chr.9.19559425,Pseudomonadales,29.31742159,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,11.98057758,29.47796606,3.89E-38
+chr.5.23111485,Pseudomonadales,24.83807294,Locus23,CDS,Os05g0469600,Similar to Pyruvate decarboxylase (Fragment).,31.9651135,10.21182883,6.77E-52
+chr.5.23125465,Pseudomonadales,26.67476664,Locus23,CDS,Os05g0469900,Conserved hypothetical protein.,30.68527184,10.97667648,7.71E-47
+chr.5.23127545,Pseudomonadales,27.67830987,Locus23,CDS,Os05g0470000,"Protein of unknown function DUF231, plant domain containing protein.",10.8993267,31.24115178,9.1E-50
+chr.7.12979920,Pseudomonadales,27.31693343,Locus21,CDS,Os07g0404300,"Zinc finger, RanBP2-type domain containing protein.",11.47342324,30.25630925,1.11E-43
+chr.1.29852213,Pseudomonadales,21.39139763,Locus8,CDS,Os01g0681900,NADH dependent Glutamate Synthase precursor (EC 1.4.1.14).,15.82814551,32.14386164,1.33E-21
+chr.9.19658479,Pseudomonadales,26.91266461,Locus5,CDS,Os09g0491820,NAD-dependent epimerase/dehydratase family protein.,10.68289377,31.15206939,2.55E-49
+chr.9.19543719,Pseudomonadales,31.49560729,Locus5,CDS,Os09g0490400,"Glycoside hydrolase, family 1 protein.",12.18122981,30.5884688,6.04E-39
+chr.5.23066575,Pseudomonadales,27.85954736,Locus23,CDS,Os05g0468900,"Zinc finger, RING-type domain containing protein.",31.46429035,10.93485728,6.79E-51
+chr.2.31956703,Pseudomonadales,28.41510845,Locus24,CDS,Os02g0742000,Bromo adjacent region domain containing protein.,30.01790922,11.17929432,4.55E-44
+chr.2.33385261,Pseudomonadales,22.85486991,Locus25,CDS,Os02g0770600,Protein of unknown function DUF1644 family protein.,29.03405872,11.13128579,1.26E-42
+chr.7.15279512,Pseudomonadales,31.22765191,Locus11,CDS,Os07g0437000,Similar to Flavin monoxygenase-like protein floozy.,11.71843685,30.95236665,2.82E-43
+chr.9.21373723,Pseudomonadales,22.77173908,Locus17,CDS,Os09g0525700,Conserved hypothetical protein.,28.80717265,11.50980743,3.06E-38
+chr.5.23012713,Pseudomonadales,28.41052941,Locus23,CDS,Os05g0467800,Conserved hypothetical protein.,11.63207499,31.31765075,3.78E-46
+chr.5.23125350,Pseudomonadales,26.67429962,Locus23,CDS,Os05g0469900,Conserved hypothetical protein.,11.16389135,30.50958573,1.25E-45
+chr.9.19543730,Pseudomonadales,31.72203651,Locus5,CDS,Os09g0490400,"Glycoside hydrolase, family 1 protein.",12.61528008,30.5884688,1.67E-36
+chr.1.29633169,Pseudomonadales,20.06335038,Locus3,CDS,Os01g0678000,Conserved hypothetical protein.,28.46371054,11.59518219,9.79E-37
+chr.6.17301352,Enterobacterales,26.19157933,Locus18,CDS,Os06g0483200,Similar to Beta-amyrin synthase.,15.58378092,47.15507044,5.22E-53
+chr.5.23039986,Pseudomonadales,29.05041769,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",11.4868033,31.01579676,7.72E-45
+chr.9.19610017,Pseudomonadales,22.67814455,Locus5,CDS,Os09g0491660,Homeodomain-like containing protein.,12.36480916,29.13258958,1.87E-33
+chr.5.23034681,Pseudomonadales,27.60859429,Locus23,CDS,Os05g0468400,"Galactose oxidase, central domain containing protein.",30.56125226,11.04863658,7.59E-47
+chr.6.17473410,Pseudomonadales,29.9477125,Locus18,CDS,Os06g0486300,Similar to Mlo.,13.71170268,31.84831039,2.59E-34
+chr.9.19610209,Pseudomonadales,24.37533035,Locus5,CDS,Os09g0491660,Homeodomain-like containing protein.,29.15340873,12.14034566,1.49E-35
+chr.12.5704015,Pseudomonadales,20.86466754,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",29.32653251,11.76718351,1.01E-39
+chr.2.33390313,Pseudomonadales,33.8574106,Locus25,CDS,Os02g0770700,"Peptidase C50, separase family protein.",14.16514713,32.52221103,1.02E-32
+chr.9.19559452,Pseudomonadales,29.82757954,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,12.38881803,29.62885508,4.83E-36
+chr.5.25352870,Pseudomonadales,28.89205896,Locus20,CDS,Os05g0510600,Similar to Tyrosine/dopa decarboxylase (EC 4.1.1.28).,31.7259,11.71697092,1.44E-45
+chr.1.29640724,Pseudomonadales,20.15218202,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,10.99922652,28.44901735,2.6E-42
+chr.5.25345539,Pseudomonadales,20.30265388,Locus20,CDS,Os05g0510400,Cyclin-like F-box domain containing protein.,10.85629678,28.34283117,2.23E-42
+chr.5.25453142,Pseudomonadales,26.08957252,Locus20,CDS,Os05g0512400,Conserved hypothetical protein.,11.70628219,30.60013187,1.86E-42
+chr.12.5706934,Pseudomonadales,21.9802555,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",11.39447272,29.51621981,1.37E-43
+chr.1.29683997,Pseudomonadales,24.41458002,Locus3,CDS,Os01g0678700,DP protein.,15.11271039,32.8346974,1.98E-29
+chr.5.23035075,Pseudomonadales,29.25085225,Locus23,CDS,Os05g0468400,"Galactose oxidase, central domain containing protein.",30.92332331,11.06078117,5.89E-47
+chr.5.23039794,Pseudomonadales,27.90217679,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",11.30791155,30.92104409,1.07E-45
+chr.5.25345507,Pseudomonadales,22.70426814,Locus20,CDS,Os05g0510400,Cyclin-like F-box domain containing protein.,29.05523641,15.70522524,2.04E-19
+chr.5.23020852,Pseudomonadales,26.84608501,Locus23,CDS,Os05g0468100,Protein of unknown function DUF1618 domain containing protein.,11.39949505,31.02182381,4.33E-45
+chr.9.19560349,Pseudomonadales,31.56052051,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,11.81088073,29.92379504,7.02E-39
+chr.7.15171108,Pseudomonadales,20.4328005,Locus11,CDS,Os07g0434500,"DEAD/DEAH box helicase, N-terminal domain containing protein.",15.364142,34.07481579,6.99E-27
+chr.5.23012388,Pseudomonadales,29.21613668,Locus23,CDS,Os05g0467800,Conserved hypothetical protein.,30.2275095,11.62093148,4.68E-42
+chr.9.19610145,Pseudomonadales,25.76310548,Locus5,CDS,Os09g0491660,Homeodomain-like containing protein.,29.24738541,12.47755359,4.38E-34
+chr.2.33385177,Pseudomonadales,20.50175852,Locus25,CDS,Os02g0770600,Protein of unknown function DUF1644 family protein.,11.63035999,28.29434529,6.5E-38
+chr.9.21355048,Pseudomonadales,23.64257238,Locus17,CDS,Os09g0525300,Cyclin-like F-box domain containing protein.,28.89994335,11.97647925,2.48E-35
+chr.5.23039829,Pseudomonadales,27.23646928,Locus23,CDS,Os05g0468500,"Lipolytic enzyme, G-D-S-L family protein.",11.29581771,30.76557608,8.85E-45
+chr.2.33402494,Pseudomonadales,27.70239212,Locus25,CDS,Os02g0770800,Similar to Nitrate reductase [NAD(P)H] (EC 1.7.1.2).,14.08876089,32.23673216,1.59E-31
+chr.9.19559775,Pseudomonadales,28.27847834,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,12.09193319,29.67665569,1.03E-37
+chr.1.29589950,Pseudomonadales,21.34588955,Locus3,CDS,Os01g0676900,Conserved hypothetical protein.,10.83311905,28.94352484,8.96E-43
+chr.1.29597390,Enterobacterales,20.15382998,Locus3,CDS,Os01g0677000,"Galactose oxidase, central domain containing protein.",45.83021728,16.72734517,3.22E-54
+chr.9.19560061,Pseudomonadales,28.70965275,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,30.00348056,11.18949202,4.15E-44
+chr.5.25352984,Pseudomonadales,28.21054122,Locus20,CDS,Os05g0510600,Similar to Tyrosine/dopa decarboxylase (EC 4.1.1.28).,12.0764031,31.8137465,4.27E-43
+chr.9.19640538,Pseudomonadales,22.59975856,Locus5,CDS,Os09g0491756,"U2 snRNP auxiliary factor, small subunit.",28.10541076,11.22369913,5.3E-40
+chr.5.23155397,Pseudomonadales,28.96071958,Locus23,CDS,Os05g0470800,Bacterial surface antigen (D15) family protein.,10.97841407,30.57016828,1.08E-46
+chr.5.23141071,Pseudomonadales,27.70631046,Locus23,CDS,Os05g0470600,Conserved hypothetical protein.,11.34246979,30.62253548,4.15E-45
+chr.5.23025018,Pseudomonadales,26.69048092,Locus23,CDS,Os05g0468200,Conserved hypothetical protein.,29.92790455,12.00665494,1.33E-39
+chr.2.31955548,Pseudomonadales,23.46390577,Locus24,CDS,Os02g0742000,Bromo adjacent region domain containing protein.,14.02794626,30.90352712,4.48E-30
+chr.9.19512029,Pseudomonadales,21.29025776,Locus5,CDS,Os09g0489200,Transcription factor jumonji/aspartyl beta-hydroxylase domain containing protein.,14.58399886,29.78325274,1.3E-24
+chr.9.19560325,Pseudomonadales,28.0356972,Locus5,CDS,Os09g0491100,Similar to Beta-primeverosidase (EC 3.2.1.149).,29.15622457,11.75292789,2.47E-39
+chr.12.5703205,Pseudomonadales,22.19157045,Locus4,CDS,Os12g0209300,"AAA ATPase, central region domain containing protein.",28.62298182,12.00950833,3.76E-36
+chr.5.27343430,Pseudomonadales,21.89530765,Locus14,CDS,Os05g0549300,Conserved hypothetical protein.,13.20095027,27.9714669,9.94E-28
+chr.4.29106546,Pseudomonadales,25.12654079,Locus6,CDS,Os04g0570500,Cytochrome P450 family protein.,29.32789673,11.33156074,6.53E-41
+chr.2.25881542,Pseudomonadales,39.94515502,Locus1,CDS,Os02g0626600,Phenylalanine ammonia-lyase family protein.,28.86826803,12.21856814,5.57E-34
+chr.9.19543784,Pseudomonadales,27.54995993,Locus5,CDS,Os09g0490400,"Glycoside hydrolase, family 1 protein.",11.97104522,29.39566767,1.43E-37
+chr.9.19651688,Pseudomonadales,26.02055915,Locus5,CDS,Os09g0491788,NAD-dependent epimerase/dehydratase family protein.,12.61782577,29.57547209,1.55E-34
+chr.7.15172618,Pseudomonadales,22.35632949,Locus11,CDS,Os07g0434500,"DEAD/DEAH box helicase, N-terminal domain containing protein.",14.21541794,34.83168602,4.53E-35
+chr.1.29641098,Pseudomonadales,20.12619644,Locus3,CDS,Os01g0678100,Conserved hypothetical protein.,28.49956273,11.45296905,2.9E-39
+chr.5.23185081,Pseudomonadales,26.6662433,Locus23,CDS,Os05g0471100,Glutaredoxin domain containing protein.,11.5403614,30.78512035,3.55E-44
+chr.9.19505353,Pseudomonadales,22.37291684,Locus5,CDS,Os09g0488700,Conserved hypothetical protein.,27.95518244,12.26742102,4.04E-32
+chr.9.19499838,Pseudomonadales,21.22464883,Locus5,CDS,Os09g0488600,"Protein kinase PKN/PRK1, effector domain containing protein.",28.51364638,12.09077679,3.23E-35
+chr.7.15266671,Pseudomonadales,27.0563063,Locus11,CDS,Os07g0436600,Tetratricopeptide-like helical domain containing protein.,32.0448753,12.56131825,9.87E-41
+chr.5.25345292,Pseudomonadales,20.0543288,Locus20,CDS,Os05g0510400,Cyclin-like F-box domain containing protein.,28.47542656,11.09332268,1.17E-41
+chr.4.29244052,Pseudomonadales,21.55234728,Locus6,CDS,Os04g0572600,Conserved hypothetical protein.,28.88984846,11.37687373,4.24E-38
+chr.2.31956269,Pseudomonadales,22.44122322,Locus24,CDS,Os02g0742000,Bromo adjacent region domain containing protein.,15.06436204,29.83993938,2.32E-23
+chr.2.33389633,Pseudomonadales,26.83470883,Locus25,CDS,Os02g0770700,"Peptidase C50, separase family protein.",29.6819895,14.19234127,4.44E-26
+chr.4.29241939,Pseudomonadales,21.5185345,Locus6,CDS,Os04g0572600,Conserved hypothetical protein.,28.01341101,11.46930088,5.02E-37
+chr.4.29279678,Pseudomonadales,20.0545388,Locus6,CDS,Os04g0573300,Similar to SBT2 protein (Subtilisin-like protease).,27.664601,11.74312136,6.47E-36
+chr.4.29269009,Pseudomonadales,20.11671937,Locus6,CDS,Os04g0573100,Similar to Mandelonitrile lyase-like protein.,27.7155151,12.12039845,9.32E-33
+chr.2.25881968,Pseudomonadales,37.67588454,Locus1,CDS,Os02g0626600,Phenylalanine ammonia-lyase family protein.,13.1717892,29.38314341,1.52E-30
+chr.5.14223051,Pseudomonadales,26.92624294,Locus7,CDS,Os05g0311500,Protein of unknown function DUF567 family protein.,29.74060877,12.05761162,2.78E-38
+chr.2.33335218,Pseudomonadales,25.19266906,Locus25,CDS,Os02g0769600,Conserved hypothetical protein.,16.31623279,28.71284635,4.16E-16
+chr.9.19543874,Pseudomonadales,20.9845548,Locus5,CDS,Os09g0490400,"Glycoside hydrolase, family 1 protein.",17.39716243,26.65076023,3.64E-10
